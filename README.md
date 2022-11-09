@@ -30,24 +30,38 @@ writers (array of nconsts) – writer(s) of the given title
 
 #Methods
 
-To answer the first question both the on and off screen inequalities have to be taken into account:
+Q1: Both the on and off screen inequalities have to be taken into account:
 - Ratio male/ female (cast, directors, writers): Gender of cast is given, gender of director & writer has to be concluded from the name. Careful with handling of gender neutral names) 
 - Age distribution male/ female of cast
 - Find stereotypical gender roles based on the movie summary and tvtropes.clusters.txt with sentinel analysis. Find gender by name or pronouns (https://stanfordnlp.github.io/CoreNLP/index.html) 
 - Usage of Bechtel-test data: https://www.kaggle.com/datasets/alisonyao/movie-bechdel-test-scores
 
-For answer 2 and 3 the insight from question 1 has to be analysed with respect to genre, language of movie and release date. 
+Q2-Q3: The insight from question 1 has to be analysed with respect to genre, language of movie and release date. 
 
-Question 4 can be answered with a regression based on insights of question 1.
+Q4: Build a regression based on insights of question 1.
 
-In order to find recuring toppics for a specific gender topic modeling on genderis done to extract keywords around two genders.
+Q5: In order to find recuring toppics for a specific gender topic modeling on genderis done to extract keywords around two genders.
 
-For question 6 a correlation matrix with gender distribution for writer and director is done with the other features describing the gender gap.
+Q6: create a correlation matrix with gender distribution for writer and director is done with the other features describing the gender gap.
 
+In dept description of how to analyse movie plots for Q1 & Q5:
+1. Split plot description into sentences describing female/ male character according to pronoun or name
+2. Exctract verbs/ adjectives/ nouns with https://spacy.io/ or https://www.nltk.org/
+3. Stemming & Lemmatizing words: reduce words to their root (e.g. “helping” and “helper” share the root “help.”) with https://www.nltk.org/
+4. Categorizing extracted words according with https://github.com/Ejhfast/empath-client / or by training own model: https://radimrehurek.com/gensim/models/ldamulticore.html
+5. Frequency Distribution on how often a word appears: https://www.nltk.org/ or with wordcloud: https://github.com/amueller/word_cloud
 
 
 Proposed timeline
-Organization within the team: A list of internal milestones up until project Milestone P3.
+(Organization within the team: A list of internal milestones up until project Milestone P3.)
+
+21.11.: Take Milestone 2 feedback into account, make necessary changes. 
+27.11.: Compute statistics until question 4 (Besides gender representation based on characters on screen)
+11.12.: Do plot summary analysis for question 5 and character representation
+15.12.: Compute all necessary statistics
+20.12.: Create story with figures and text, finilize git repository
+
+
 Questions for TAs (optional): Add here any questions you have for us related to the proposed project.
 
 by YiYiSoDa
