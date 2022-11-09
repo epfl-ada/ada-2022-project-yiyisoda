@@ -52,14 +52,14 @@ In dept description of how to analyse movie plots for Q1 & Q5:
 5. Frequency Distribution on how often a word appears: https://www.nltk.org/ or with wordcloud: https://github.com/amueller/word_cloud
 
 
-Proposed timeline
+# Proposed timeline
 (Organization within the team: A list of internal milestones up until project Milestone P3.)
 
-21.11.: Take Milestone 2 feedback into account, make necessary changes. 
-27.11.: Compute statistics until question 4 (Besides gender representation based on characters on screen)
-11.12.: Do plot summary analysis for question 5 and character representation
-15.12.: Compute all necessary statistics
-20.12.: Create story with figures and text, finilize git repository
+- 21.11.: Take Milestone 2 feedback into account, make necessary changes. 
+- 27.11.: Compute statistics until question 4 (Besides gender representation based on characters on screen)
+- 11.12.: Do plot summary analysis for question 5 and character representation
+- 15.12.: Compute all necessary statistics
+- 20.12.: Create story with figures and text, finilize git repository
 
 
 Questions for TAs (optional): Add here any questions you have for us related to the proposed project.
