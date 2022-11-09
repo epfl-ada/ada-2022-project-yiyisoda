@@ -28,7 +28,7 @@ tconst (string) - alphanumeric unique identifier of the title
 directors (array of nconsts) - director(s) of the given title
 writers (array of nconsts) – writer(s) of the given title
 
-#Methods
+# Methods
 
 Q1: Both the on and off screen inequalities have to be taken into account:
 - Ratio male/ female (cast, directors, writers): Gender of cast is given, gender of director & writer has to be concluded from the name. Careful with handling of gender neutral names) 
