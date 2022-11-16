@@ -51,7 +51,8 @@ In dept description of how to analyse movie plots for Q1 & Q5:
 4. Categorizing extracted words according with https://github.com/Ejhfast/empath-client / or by training own model: https://radimrehurek.com/gensim/models/ldamulticore.html
 5. Frequency Distribution on how often a word appears: https://www.nltk.org/ or with wordcloud: https://github.com/amueller/word_cloud
 
-
+# Pipeline
+![image](https://github.com/epfl-ada/ada-2022-project-yiyisoda/blob/main/pipeline.png)
 # Proposed timeline
 (Organization within the team: A list of internal milestones up until project Milestone P3.)
 
