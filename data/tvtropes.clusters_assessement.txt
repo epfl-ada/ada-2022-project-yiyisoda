@@ -1,0 +1,501 @@
+absent_minded_professor	"{""char"": ""Professor Philip Brainard"", ""movie"": ""Flubber"", ""id"": ""/m/0jy9q0"", ""actor"": ""Robin Williams""}"	-1
+absent_minded_professor	"{""char"": ""Professor Keenbean"", ""movie"": ""Richie Rich"", ""id"": ""/m/02vchl3"", ""actor"": ""Michael McShane""}"	-1
+absent_minded_professor	"{""char"": ""Dr. Reinhardt Lane"", ""movie"": ""The Shadow"", ""id"": ""/m/0k6fkc"", ""actor"": ""Ian McKellen""}"	-1
+absent_minded_professor	"{""char"": ""Dr. Harold Medford"", ""movie"": ""Them!"", ""id"": ""/m/0k6_br"", ""actor"": ""Edmund Gwenn""}"	-1
+absent_minded_professor	"{""char"": ""Daniel Jackson"", ""movie"": ""Stargate"", ""id"": ""/m/0k3rhh"", ""actor"": ""James Spader""}"	-1
+adventurer_archaeologist	"{""char"": ""Indiana Jones"", ""movie"": ""Indiana Jones and the Kingdom of the Crystal Skull"", ""id"": ""/m/0jzx78"", ""actor"": ""Harrison Ford""}"	1
+adventurer_archaeologist	"{""char"": ""Indiana Jones"", ""movie"": ""Indiana Jones and the Raiders of the Lost Ark"", ""id"": ""/m/0k294p"", ""actor"": ""Harrison Ford""}"	1
+adventurer_archaeologist	"{""char"": ""Indiana Jones"", ""movie"": ""Indiana Jones and the Temple of Doom"", ""id"": ""/m/0jzx9b"", ""actor"": ""Harrison Ford""}"	1
+adventurer_archaeologist	"{""char"": ""Evelyn Carnahan-O'Connell"", ""movie"": ""The Mummy"", ""id"": ""/m/0k5yzc"", ""actor"": ""Rachel Weisz""}"	1
+arrogant_kungfu_guy	"{""char"": ""Han"", ""movie"": ""Enter the Dragon"", ""id"": ""/m/02vd8hn"", ""actor"": ""Shih Kien""}"	-1
+arrogant_kungfu_guy	"{""char"": ""Johnny Lawrence"", ""movie"": ""The Karate Kid"", ""id"": ""/m/0k5jyf"", ""actor"": ""William Zabka""}"	-1
+arrogant_kungfu_guy	"{""char"": ""Jen Yu"", ""movie"": ""Crouching Tiger, Hidden Dragon"", ""id"": ""/m/0jwv09"", ""actor"": ""Zhang Ziyi""}"	-1
+arrogant_kungfu_guy	"{""char"": ""Pai Mei"", ""movie"": ""Kill Bill Volume 2"", ""id"": ""/m/0gz3h92"", ""actor"": ""Chia Hui Liu""}"	-1
+arrogant_kungfu_guy	"{""char"": ""Apollo Creed"", ""movie"": ""Rocky"", ""id"": ""/m/0k2n0d"", ""actor"": ""Carl Weathers""}"	-1
+arrogant_kungfu_guy	"{""char"": ""Clubber Lang"", ""movie"": ""Rocky III"", ""id"": ""/m/0k2n56"", ""actor"": ""Mr. T""}"	-1
+arrogant_kungfu_guy	"{""char"": ""Storm Shadow"", ""movie"": ""G.I. Joe: The Rise of Cobra"", ""id"": ""/m/052dfd5"", ""actor"": ""Lee Byung-Hun""}"	-1
+arrogant_kungfu_guy	"{""char"": ""Kurgan"", ""movie"": ""Highlander"", ""id"": ""/m/02214xq"", ""actor"": ""Clancy Brown""}"	-1
+arrogant_kungfu_guy	"{""char"": ""Anakin Skywalker"", ""movie"": ""Star Wars Episode III: Revenge of the Sith"", ""id"": ""/m/02sg5ry"", ""actor"": ""Hayden Christensen""}"	-1
+big_man_on_campus	"{""char"": ""Guy Perkins"", ""movie"": ""Never Been Kissed"", ""id"": ""/m/02vbkvz"", ""actor"": ""Jeremy Jordan""}"	0
+big_man_on_campus	"{""char"": ""John Tucker"", ""movie"": ""John Tucker Must Die"", ""id"": ""/m/0j_6gm"", ""actor"": ""Jesse Metcalfe""}"	0
+big_man_on_campus	"{""char"": ""Woody Deane"", ""movie"": ""It's a Boy Girl Thing"", ""id"": ""/m/02vc983"", ""actor"": ""Kevin Zegers""}"	0
+big_man_on_campus	"{""char"": ""Van Wilder"", ""movie"": ""National Lampoon's Van Wilder"", ""id"": ""/m/0k14rv"", ""actor"": ""Ryan Reynolds""}"	0
+big_man_on_campus	"{""char"": ""Paul Metzler"", ""movie"": ""Election"", ""id"": ""/m/02vdf9d"", ""actor"": ""Chris Klein""}"	0
+big_man_on_campus	"{""char"": ""Troy Bolton"", ""movie"": ""High School Musical"", ""id"": ""/m/0jzdys"", ""actor"": ""Zac Efron""}"	0
+big_man_on_campus	"{""char"": ""Mike Dexter"", ""movie"": ""Can't Hardly Wait"", ""id"": ""/m/03jsnmf"", ""actor"": ""Peter Facinelli""}"	0
+bounty_hunter	"{""char"": ""Man with No Name"", ""movie"": ""For a Few Dollars More"", ""id"": ""/m/0jybsq"", ""actor"": ""Clint Eastwood""}"	0
+bounty_hunter	"{""char"": ""Josey Wales"", ""movie"": ""The Outlaw Josey Wales"", ""id"": ""/m/0k61jr"", ""actor"": ""Clint Eastwood""}"	0
+bounty_hunter	"{""char"": ""Jellon Lamb"", ""movie"": ""The Proposition"", ""id"": ""/m/06wh7_d"", ""actor"": ""John Hurt""}"	0
+bounty_hunter	"{""char"": ""Beck"", ""movie"": ""The Rundown"", ""id"": ""/m/0k6bqx"", ""actor"": ""The Rock""}"	0
+bounty_hunter	"{""char"": ""Rick Deckard"", ""movie"": ""Blade Runner"", ""id"": ""/m/0jvhbm"", ""actor"": ""Harrison Ford""}"	0
+bounty_hunter	"{""char"": ""Leonard Smalls"", ""movie"": ""Raising Arizona"", ""id"": ""/m/02vbtgt"", ""actor"": ""Randall \""Tex\"" Cobb""}"	0
+bounty_hunter	"{""char"": ""Jack Walsh"", ""movie"": ""Midnight Run"", ""id"": ""/m/0k0n9r"", ""actor"": ""Robert De Niro""}"	0
+bounty_hunter	"{""char"": ""Milo Boyd"", ""movie"": ""The Bounty Hunter"", ""id"": ""/m/0772tb3"", ""actor"": ""Gerard Butler""}"	0
+bounty_hunter	"{""char"": ""Toombs"", ""movie"": ""The Chronicles of Riddick"", ""id"": ""/m/0k4qdz"", ""actor"": ""Nick Chinlund""}"	0
+bounty_hunter	"{""char"": ""Nick Randall"", ""movie"": ""Wanted: Dead or Alive"", ""id"": ""/m/03jsm0f"", ""actor"": ""Rutger Hauer""}"	0
+brainless_beauty	"{""char"": ""Gemma Honeycutt"", ""movie"": ""Fool's Gold"", ""id"": ""/m/04dddz5"", ""actor"": ""Alexis Dziena""}"	-1
+brainless_beauty	"{""char"": ""Matt Mateo"", ""movie"": ""The Opposite of Sex"", ""id"": ""/m/02tbdw7"", ""actor"": ""Ivan Sergei""}"	-1
+brainless_beauty	"{""char"": ""Paul Metzler"", ""movie"": ""Election"", ""id"": ""/m/02vdf9d"", ""actor"": ""Chris Klein""}"	-1
+brainless_beauty	"{""char"": ""Shelley Darlingson"", ""movie"": ""The House Bunny"", ""id"": ""/m/04dgw4t"", ""actor"": ""Anna Faris""}"	-1
+brainless_beauty	"{""char"": ""Brace Channing"", ""movie"": ""My Favorite Martian"", ""id"": ""/m/03lvf22"", ""actor"": ""Elizabeth Hurley""}"	-1
+brainless_beauty	"{""char"": ""Mia"", ""movie"": ""Stan Helsing"", ""id"": ""/m/0gc3g1p"", ""actor"": ""Desi Lydic""}"	-1
+brainless_beauty	"{""char"": ""Marcia Brady"", ""movie"": ""The Brady Bunch Movie"", ""id"": ""/m/0k4k_5"", ""actor"": ""Christine Taylor""}"	-1
+brainless_beauty	"{""char"": ""Chris"", ""movie"": ""Roxanne"", ""id"": ""/m/0k2q15"", ""actor"": ""Rick Rossovich""}"	-1
+brainless_beauty	"{""char"": ""Buffy Summers"", ""movie"": ""Buffy the Vampire Slayer"", ""id"": ""/m/0jvy0r"", ""actor"": ""Kristy Swanson""}"	-1
+brainless_beauty	"{""char"": ""Brad"", ""movie"": ""Extract"", ""id"": ""/m/0b3trzf"", ""actor"": ""Dustin Milligan""}"	-1
+brainless_beauty	"{""char"": ""Jack Bartlett"", ""movie"": ""Sugar & Spice"", ""id"": ""/m/0cg2m9s"", ""actor"": ""James Marsden""}"	-1
+brainless_beauty	"{""char"": ""Maggie Feller"", ""movie"": ""In Her Shoes"", ""id"": ""/m/0jzvtp"", ""actor"": ""Cameron Diaz""}"	-1
+broken_bird	"{""char"": ""Chelsea Deardon"", ""movie"": ""Legal Eagles"", ""id"": ""/m/0j_wlm"", ""actor"": ""Daryl Hannah""}"	-1
+broken_bird	"{""char"": ""Mad Hatter"", ""movie"": ""Alice in Wonderland"", ""id"": ""/m/04q4dng"", ""actor"": ""Johnny Depp""}"	-1
+broken_bird	"{""char"": ""Nicole Oakley"", ""movie"": ""Crazy/Beautiful"", ""id"": ""/m/0jwrqb"", ""actor"": ""Kirsten Dunst""}"	-1
+broken_bird	"{""char"": ""Annie Newton"", ""movie"": ""The Invisible"", ""id"": ""/m/02tbbww"", ""actor"": ""Margarita Levieva""}"	-1
+broken_bird	"{""char"": ""Nina Sayers"", ""movie"": ""Black Swan"", ""id"": ""/m/0cccx3m"", ""actor"": ""Natalie Portman""}"	-1
+bromantic_foil	"{""char"": ""Randal Graves"", ""movie"": ""Clerks."", ""id"": ""/m/0jwj18"", ""actor"": ""Jeff Anderson""}"	-1
+bromantic_foil	"{""char"": ""Randal Graves"", ""movie"": ""Clerks II"", ""id"": ""/m/09vvrb_"", ""actor"": ""Jeff Anderson""}"	-1
+bromantic_foil	"{""char"": ""Brodie Bruce"", ""movie"": ""Mallrats"", ""id"": ""/m/07ldy8x"", ""actor"": ""Jason Lee""}"	-1
+bromantic_foil	"{""char"": ""Banky Edwards"", ""movie"": ""Chasing Amy"", ""id"": ""/m/05ckj7h"", ""actor"": ""Jason Lee""}"	-1
+bromantic_foil	"{""char"": ""Ed"", ""movie"": ""Shaun of the Dead"", ""id"": ""/m/0k35nb"", ""actor"": ""Nick Frost""}"	-1
+bruiser_with_a_soft_center	"{""char"": ""Hellboy"", ""movie"": ""Hellboy: Blood and Iron"", ""id"": ""/m/0jzb66"", ""actor"": ""Ron Perlman""}"	1
+bruiser_with_a_soft_center	"{""char"": ""Tron"", ""movie"": ""Tron"", ""id"": ""/m/0hcfdd1"", ""actor"": ""Bruce Boxleitner""}"	1
+bruiser_with_a_soft_center	"{""char"": ""James Bond"", ""movie"": ""Casino Royale"", ""id"": ""/m/02hw79s"", ""actor"": ""Daniel Craig""}"	1
+bully	"{""char"": ""Biff Tannen"", ""movie"": ""Back to the Future"", ""id"": ""/m/0jty60"", ""actor"": ""Thomas F. Wilson""}"	-1
+bully	"{""char"": ""Scut Farkus"", ""movie"": ""A Christmas Story"", ""id"": ""/m/0jsprx"", ""actor"": ""Zack Ward""}"	-1
+bully	"{""char"": ""Vanessa"", ""movie"": ""The Grudge 2"", ""id"": ""/m/0k592n"", ""actor"": ""Teresa Palmer""}"	-1
+byronic_hero	"{""char"": ""Jake LaMotta"", ""movie"": ""Raging Bull"", ""id"": ""/m/0k28_g"", ""actor"": ""Robert De Niro""}"	1
+byronic_hero	"{""char"": ""James Bond"", ""movie"": ""Casino Royale"", ""id"": ""/m/02hw79s"", ""actor"": ""Daniel Craig""}"	1
+byronic_hero	"{""char"": ""Travis Bickle"", ""movie"": ""Taxi Driver"", ""id"": ""/m/0k43s9"", ""actor"": ""Robert De Niro""}"	1
+byronic_hero	"{""char"": ""Anakin Skywalker"", ""movie"": ""Star Wars Episode III: Revenge of the Sith"", ""id"": ""/m/02sg5ry"", ""actor"": ""Hayden Christensen""}"	1
+byronic_hero	"{""char"": ""Martin Q. Blank"", ""movie"": ""Grosse Pointe Blank"", ""id"": ""/m/0jz0wk"", ""actor"": ""John Cusack""}"	1
+byronic_hero	"{""char"": ""Brand Hauser"", ""movie"": ""War Inc."", ""id"": ""/m/02vczvr"", ""actor"": ""John Cusack""}"	1
+byronic_hero	"{""char"": ""Cobb"", ""movie"": ""Inception"", ""id"": ""/m/0667g_f"", ""actor"": ""Leonardo DiCaprio""}"	1
+byronic_hero	"{""char"": ""Achilles"", ""movie"": ""Troy"", ""id"": ""/m/0k7ckp"", ""actor"": ""Brad Pitt""}"	1
+byronic_hero	"{""char"": ""Britt Reid"", ""movie"": ""The Green Hornet"", ""id"": ""/m/0h5m_9x"", ""actor"": ""Seth Rogen""}"	1
+byronic_hero	"{""char"": ""Donnie Darko"", ""movie"": ""Donnie Darko"", ""id"": ""/m/0jxftx"", ""actor"": ""Jake Gyllenhaal""}"	1
+byronic_hero	"{""char"": ""Captain Jack Sparrow"", ""movie"": ""Pirates of the Caribbean: Dead Man's Chest"", ""id"": ""/m/0k1xxm"", ""actor"": ""Johnny Depp""}"	1
+byronic_hero	"{""char"": ""John Wilmot, 2nd Earl of Rochester"", ""movie"": ""The Libertine"", ""id"": ""/m/0k5ptk"", ""actor"": ""Johnny Depp""}"	1
+byronic_hero	"{""char"": ""Robert Angier"", ""movie"": ""The Prestige"", ""id"": ""/m/0k65k8"", ""actor"": ""Hugh Jackman""}"	1
+byronic_hero	"{""char"": ""Tony Stark"", ""movie"": ""Iron Man"", ""id"": ""/m/0j1__hv"", ""actor"": ""Robert Downey Jr.""}"	1
+byronic_hero	"{""char"": ""Loki"", ""movie"": ""Thor"", ""id"": ""/m/0855mjk"", ""actor"": ""Tom Hiddleston""}"	1
+byronic_hero	"{""char"": ""Lenny Nero"", ""movie"": ""Strange Days"", ""id"": ""/m/0k3tt_"", ""actor"": ""Ralph Fiennes""}"	1
+byronic_hero	"{""char"": ""Bill 'The Butcher' Cutting"", ""movie"": ""Gangs of New York"", ""id"": ""/m/0jynbm"", ""actor"": ""Daniel Day-Lewis""}"	1
+casanova	"{""char"": ""Giacomo Casanova"", ""movie"": ""Casanova"", ""id"": ""/m/0jw4mw"", ""actor"": ""Heath Ledger""}"	0
+casanova	"{""char"": ""Telly"", ""movie"": ""Kids"", ""id"": ""/m/0j_flm"", ""actor"": ""Leo Fitzpatrick""}"	0
+casanova	"{""char"": ""Tony Stark"", ""movie"": ""Iron Man"", ""id"": ""/m/0j1__hv"", ""actor"": ""Robert Downey Jr.""}"	0
+casanova	"{""char"": ""Dorian Gray"", ""movie"": ""The League of Extraordinary Gentlemen"", ""id"": ""/m/0dkcy1f"", ""actor"": ""Stuart Townsend""}"	0
+casanova	"{""char"": ""John Wilmot, 2nd Earl of Rochester"", ""movie"": ""The Libertine"", ""id"": ""/m/0k5ptk"", ""actor"": ""Johnny Depp""}"	0
+casanova	"{""char"": ""Timothy"", ""movie"": ""The Long Kiss Goodnight"", ""id"": ""/m/02vch3p"", ""actor"": ""Craig Bierko""}"	0
+casanova	"{""char"": ""Johnny Wickham"", ""movie"": ""Bride and Prejudice"", ""id"": ""/m/0cf_wtd"", ""actor"": ""Daniel Gillies""}"	0
+chanteuse	"{""char"": ""Jessica Rabbit"", ""movie"": ""Who Framed Roger Rabbit"", ""id"": ""/m/02wszk9"", ""actor"": ""Kathleen Turner""}"	0
+chanteuse	"{""char"": ""Tina Carlyle"", ""movie"": ""The Mask"", ""id"": ""/m/0k5wls"", ""actor"": ""Cameron Diaz""}"	0
+chanteuse	"{""char"": ""Susie Diamond"", ""movie"": ""The Fabulous Baker Boys"", ""id"": ""/m/0k50tl"", ""actor"": ""Michelle Pfeiffer""}"	0
+chanteuse	"{""char"": ""Sugar Kane Kowalczyk"", ""movie"": ""Some Like It Hot"", ""id"": ""/m/0k3j8v"", ""actor"": ""Marilyn Monroe""}"	0
+chanteuse	"{""char"": ""Dorothy Vallens"", ""movie"": ""Blue Velvet"", ""id"": ""/m/0jvlc4"", ""actor"": ""Isabella Rossellini""}"	0
+chanteuse	"{""char"": ""Ellen Aim"", ""movie"": ""Streets of Fire"", ""id"": ""/m/0k3w12"", ""actor"": ""Diane Lane""}"	0
+charmer	"{""char"": ""James Bond"", ""movie"": ""Casino Royale"", ""id"": ""/m/02hw79s"", ""actor"": ""Daniel Craig""}"	1
+charmer	"{""char"": ""Han Solo"", ""movie"": ""Star Wars Episode IV: A New Hope"", ""id"": ""/m/0k3r1_"", ""actor"": ""Harrison Ford""}"	1
+charmer	"{""char"": ""Captain Jack Sparrow"", ""movie"": ""Pirates of the Caribbean: Dead Man's Chest"", ""id"": ""/m/0k1xxm"", ""actor"": ""Johnny Depp""}"	1
+charmer	"{""char"": ""Frank Abagnale Jr."", ""movie"": ""Catch Me If You Can"", ""id"": ""/m/0jw5pq"", ""actor"": ""Leonardo DiCaprio""}"	1
+charmer	"{""char"": ""Harold Hill"", ""movie"": ""The Music Man"", ""id"": ""/m/04hv61w"", ""actor"": ""Matthew Broderick""}"	1
+charmer	"{""char"": ""Flynn Rider"", ""movie"": ""Tangled"", ""id"": ""/m/07sl05m"", ""actor"": ""Zachary Levi""}"	1
+charmer	"{""char"": ""Hannibal Lecter"", ""movie"": ""The Silence of the Lambs"", ""id"": ""/m/0k6g86"", ""actor"": ""Anthony Hopkins""}"	1
+child_prodigy	"{""char"": ""Anakin Skywalker"", ""movie"": ""Star Wars Episode I: The Phantom Menace"", ""id"": ""/m/02sg5rn"", ""actor"": ""Jake Lloyd""}"	1
+child_prodigy	"{""char"": ""Chris Knight"", ""movie"": ""Real Genius"", ""id"": ""/m/0k2ckt"", ""actor"": ""Val Kilmer""}"	1
+classy_cat_burglar	"{""char"": ""Danielle Foussard"", ""movie"": ""To Catch a Thief"", ""id"": ""/m/02vbgd1"", ""actor"": ""Brigitte Auber""}"	0
+consummate_professional	"{""char"": ""Frank Martin"", ""movie"": ""The Transporter"", ""id"": ""/m/0k6r5t"", ""actor"": ""Jason Statham""}"	1
+consummate_professional	"{""char"": ""Agent Smith"", ""movie"": ""The Matrix"", ""id"": ""/m/0k5wz1"", ""actor"": ""Hugo Weaving""}"	1
+consummate_professional	"{""char"": ""The Professor"", ""movie"": ""The Bourne Identity"", ""id"": ""/m/0k4kdl"", ""actor"": ""Clive Owen""}"	1
+consummate_professional	"{""char"": ""Sam 'Ace' Rothstein"", ""movie"": ""Casino"", ""id"": ""/m/0jw4vx"", ""actor"": ""Robert De Niro""}"	1
+corrupt_corporate_executive	"{""char"": ""Dick Jones"", ""movie"": ""RoboCop"", ""id"": ""/m/0k2m8v"", ""actor"": ""Ronny Cox""}"	-1
+corrupt_corporate_executive	"{""char"": ""Cutler Beckett"", ""movie"": ""Pirates of the Caribbean: Dead Man's Chest"", ""id"": ""/m/0k1xyw"", ""actor"": ""Tom Hollander""}"	-1
+corrupt_corporate_executive	"{""char"": ""Cutler Beckett"", ""movie"": ""Pirates of the Caribbean: At World's End"", ""id"": ""/m/0k1xwx"", ""actor"": ""Tom Hollander""}"	-1
+corrupt_corporate_executive	"{""char"": ""Max Zorin"", ""movie"": ""A View to a Kill"", ""id"": ""/m/02xl2ny"", ""actor"": ""Christopher Walken""}"	-1
+corrupt_corporate_executive	"{""char"": ""Carter Burke"", ""movie"": ""Aliens"", ""id"": ""/m/0jt8n6"", ""actor"": ""Paul Reiser""}"	-1
+corrupt_corporate_executive	"{""char"": ""Noah Cross"", ""movie"": ""Chinatown"", ""id"": ""/m/0jwcjw"", ""actor"": ""John Huston""}"	-1
+corrupt_corporate_executive	"{""char"": ""Doctor Doom"", ""movie"": ""Fantastic Four"", ""id"": ""/m/0jy24c"", ""actor"": ""Julian McMahon""}"	-1
+corrupt_corporate_executive	"{""char"": ""Kingpin"", ""movie"": ""Daredevil"", ""id"": ""/m/0jwz5q"", ""actor"": ""Michael Clarke Duncan""}"	-1
+corrupt_corporate_executive	"{""char"": ""Judge Doom"", ""movie"": ""Who Framed Roger Rabbit"", ""id"": ""/m/0k81j_"", ""actor"": ""Christopher Lloyd""}"	-1
+corrupt_corporate_executive	"{""char"": ""Conal Cochran"", ""movie"": ""Halloween III: Season of the Witch"", ""id"": ""/m/0jz33w"", ""actor"": ""Dan O'Herlihy""}"	-1
+corrupt_corporate_executive	"{""char"": ""Mayor Augustus Maywho"", ""movie"": ""How the Grinch Stole Christmas!"", ""id"": ""/m/0jzmfp"", ""actor"": ""Jeffrey Tambor""}"	-1
+corrupt_corporate_executive	"{""char"": ""Henry F. Potter"", ""movie"": ""It's a Wonderful Life"", ""id"": ""/m/0j_11c"", ""actor"": ""Lionel Barrymore""}"	-1
+corrupt_corporate_executive	"{""char"": ""Royalton"", ""movie"": ""Speed Racer"", ""id"": ""/m/03jqz37"", ""actor"": ""Roger Allam""}"	-1
+corrupt_corporate_executive	"{""char"": ""B.Z."", ""movie"": ""Santa Claus: The Movie"", ""id"": ""/m/0k2w67"", ""actor"": ""John Lithgow""}"	-1
+corrupt_corporate_executive	"{""char"": ""Les Grossman"", ""movie"": ""Tropic Thunder"", ""id"": ""/m/0gyjwgg"", ""actor"": ""Tom Cruise""}"	-1
+corrupt_corporate_executive	"{""char"": ""James McCullen - 1641"", ""movie"": ""G.I. Joe: The Rise of Cobra"", ""id"": ""/m/0h5q191"", ""actor"": ""David Murray""}"	-1
+corrupt_corporate_executive	"{""char"": ""Ed Dillinger"", ""movie"": ""Tron"", ""id"": ""/m/0k7cbx"", ""actor"": ""David Warner""}"	-1
+corrupt_corporate_executive	"{""char"": ""Ian Hawke"", ""movie"": ""Alvin and the Chipmunks"", ""id"": ""/m/03kyztz"", ""actor"": ""David Cross""}"	-1
+corrupt_corporate_executive	"{""char"": ""Jack Bennett"", ""movie"": ""Edge of Darkness"", ""id"": ""/m/08cwjsb"", ""actor"": ""Danny Huston""}"	-1
+corrupt_corporate_executive	"{""char"": ""Charles Travis"", ""movie"": ""Congo"", ""id"": ""/m/02vclwl"", ""actor"": ""Bruce Campbell""}"	-1
+corrupt_corporate_executive	"{""char"": ""Gary Winston"", ""movie"": ""Antitrust"", ""id"": ""/m/02vbk_v"", ""actor"": ""Tim Robbins""}"	-1
+corrupt_corporate_executive	"{""char"": ""Dietrich Banning"", ""movie"": ""The Tuxedo"", ""id"": ""/m/0cgn58l"", ""actor"": ""Ritchie Coster""}"	-1
+corrupt_corporate_executive	"{""char"": ""Ratchet"", ""movie"": ""Robots"", ""id"": ""/m/0k2mmy"", ""actor"": ""Greg Kinnear""}"	-1
+coward	"{""char"": ""Beni Gabor"", ""movie"": ""The Mummy"", ""id"": ""/m/03jskk3"", ""actor"": ""Kevin J. O'Connor""}"	-1
+coward	"{""char"": ""Lt. Roget / Singing man"", ""movie"": ""Paths of Glory"", ""id"": ""/m/0cc_884"", ""actor"": ""Wayne Morris""}"	-1
+coward	"{""char"": ""Captain Jack Sparrow"", ""movie"": ""Pirates of the Caribbean: Dead Man's Chest"", ""id"": ""/m/0k1xxm"", ""actor"": ""Johnny Depp""}"	-1
+coward	"{""char"": ""Carter Burke"", ""movie"": ""Aliens"", ""id"": ""/m/0jt8n6"", ""actor"": ""Paul Reiser""}"	-1
+coward	"{""char"": ""Ike Clanton"", ""movie"": ""Tombstone"", ""id"": ""/m/0cg418l"", ""actor"": ""Stephen Lang""}"	-1
+coward	"{""char"": ""Cpl. Timothy P. Upham"", ""movie"": ""Saving Private Ryan"", ""id"": ""/m/040qvsz"", ""actor"": ""Jeremy Davies""}"	-1
+crazy_jealous_guy	"{""char"": ""Jake LaMotta"", ""movie"": ""Raging Bull"", ""id"": ""/m/0k28_g"", ""actor"": ""Robert De Niro""}"	-1
+crazy_jealous_guy	"{""char"": ""Sir Alfred De Carter"", ""movie"": ""Unfaithfully Yours"", ""id"": ""/m/02vct43"", ""actor"": ""Rex Harrison""}"	-1
+crazy_jealous_guy	"{""char"": ""Heathcliff"", ""movie"": ""Wuthering Heights"", ""id"": ""/m/0k86mc"", ""actor"": ""Laurence Olivier""}"	-1
+crazy_jealous_guy	"{""char"": ""Alisdair Stewart"", ""movie"": ""The Piano"", ""id"": ""/m/0k63tb"", ""actor"": ""Sam Neill""}"	-1
+crazy_jealous_guy	"{""char"": ""Dr. Stephen Fleming"", ""movie"": ""Damage"", ""id"": ""/m/0jwy3x"", ""actor"": ""Jeremy Irons""}"	-1
+crazy_jealous_guy	"{""char"": ""Otto"", ""movie"": ""A Fish Called Wanda"", ""id"": ""/m/0jsqxv"", ""actor"": ""Kevin Kline""}"	-1
+crazy_jealous_guy	"{""char"": ""Frank N. Furter"", ""movie"": ""The Rocky Horror Picture Show"", ""id"": ""/m/0k69_1"", ""actor"": ""Tim Curry""}"	-1
+crazy_jealous_guy	"{""char"": ""David McCall"", ""movie"": ""Fear"", ""id"": ""/m/0jy3_h"", ""actor"": ""Mark Wahlberg""}"	-1
+crazy_jealous_guy	"{""char"": ""Bud White"", ""movie"": ""L.A. Confidential"", ""id"": ""/m/0j_n0t"", ""actor"": ""Russell Crowe""}"	-1
+crazy_jealous_guy	"{""char"": ""Tony Montana"", ""movie"": ""Scarface"", ""id"": ""/m/02_8_nx"", ""actor"": ""Al Pacino""}"	-1
+crazy_jealous_guy	"{""char"": ""Martin Burney"", ""movie"": ""Sleeping with the Enemy"", ""id"": ""/m/0k3ddh"", ""actor"": ""Patrick Bergin""}"	-1
+crazy_jealous_guy	"{""char"": ""Sam 'Ace' Rothstein"", ""movie"": ""Casino"", ""id"": ""/m/0jw4vx"", ""actor"": ""Robert De Niro""}"	-1
+crazy_jealous_guy	"{""char"": ""Tommy DeVito"", ""movie"": ""Goodfellas"", ""id"": ""/m/0jyytb"", ""actor"": ""Joe Pesci""}"	-1
+crazy_jealous_guy	"{""char"": ""John Lotter"", ""movie"": ""Boys Don't Cry"", ""id"": ""/m/0jvqzw"", ""actor"": ""Peter Sarsgaard""}"	-1
+crazy_jealous_guy	"{""char"": ""Jake McKenna"", ""movie"": ""U Turn"", ""id"": ""/m/0k7gxk"", ""actor"": ""Nick Nolte""}"	-1
+crazy_jealous_guy	"{""char"": ""Duke of Monroth"", ""movie"": ""Moulin Rouge!"", ""id"": ""/m/0k0vyn"", ""actor"": ""Richard Roxburgh""}"	-1
+crazy_jealous_guy	"{""char"": ""Bill"", ""movie"": ""Kill Bill Volume 1"", ""id"": ""/m/0j_fvv"", ""actor"": ""David Carradine""}"	-1
+crazy_jealous_guy	"{""char"": ""Bobby Tennison"", ""movie"": ""No One Would Tell"", ""id"": ""/m/0g9k2p6"", ""actor"": ""Fred Savage""}"	-1
+crazy_jealous_guy	"{""char"": ""Johnny Farrell"", ""movie"": ""Gilda"", ""id"": ""/m/0jysmq"", ""actor"": ""Glenn Ford""}"	-1
+crazy_jealous_guy	"{""char"": ""Takeo"", ""movie"": ""The Grudge"", ""id"": ""/m/0hgc9dq"", ""actor"": ""Takashi Matsuyama""}"	-1
+crazy_jealous_guy	"{""char"": ""Guy"", ""movie"": ""Swimming with Sharks"", ""id"": ""/m/021_h9h"", ""actor"": ""Frank Whaley""}"	-1
+crazy_jealous_guy	"{""char"": ""Blue"", ""movie"": ""Sucker Punch"", ""id"": ""/m/0850_tx"", ""actor"": ""Oscar Isaac""}"	-1
+crazy_jealous_guy	"{""char"": ""Tony Wendice"", ""movie"": ""Dial M for Murder"", ""id"": ""/m/0jx7qr"", ""actor"": ""Ray Milland""}"	-1
+crazy_jealous_guy	"{""char"": ""Steven Taylor"", ""movie"": ""A Perfect Murder"", ""id"": ""/m/0jsw40"", ""actor"": ""Michael Douglas""}"	-1
+crazy_jealous_guy	"{""char"": ""Geoffrey Clifton"", ""movie"": ""The English Patient"", ""id"": ""/m/0k4_tz"", ""actor"": ""Colin Firth""}"	-1
+crazy_survivalist	"{""char"": ""Harlan Ogilvy"", ""movie"": ""War of the Worlds"", ""id"": ""/m/0k7w6s"", ""actor"": ""Tim Robbins""}"	-1
+crazy_survivalist	"{""char"": ""Eli"", ""movie"": ""The Book of Eli"", ""id"": ""/m/05nv915"", ""actor"": ""Denzel Washington""}"	-1
+crazy_survivalist	"{""char"": ""Marvin Boggs"", ""movie"": ""Red"", ""id"": ""/m/0b7n5zy"", ""actor"": ""John Malkovich""}"	-1
+cultured_badass	"{""char"": ""James Bond"", ""movie"": ""Casino Royale"", ""id"": ""/m/02hw79s"", ""actor"": ""Daniel Craig""}"	1
+cultured_badass	"{""char"": ""Dorian Gray"", ""movie"": ""The League of Extraordinary Gentlemen"", ""id"": ""/m/0dkcy1f"", ""actor"": ""Stuart Townsend""}"	1
+cultured_badass	"{""char"": ""Everett Hitch"", ""movie"": ""Appaloosa"", ""id"": ""/m/04601vx"", ""actor"": ""Viggo Mortensen""}"	1
+cultured_badass	"{""char"": ""Leopold"", ""movie"": ""Kate & Leopold"", ""id"": ""/m/02tb9_v"", ""actor"": ""Hugh Jackman""}"	1
+cultured_badass	"{""char"": ""Hannibal Lecter"", ""movie"": ""The Silence of the Lambs"", ""id"": ""/m/0k6g86"", ""actor"": ""Anthony Hopkins""}"	1
+cultured_badass	"{""char"": ""Ghost Dog"", ""movie"": ""Ghost Dog: The Way of the Samurai"", ""id"": ""/m/0jyr6h"", ""actor"": ""Forest Whitaker""}"	1
+cultured_badass	"{""char"": ""Dupont"", ""movie"": ""Equilibrium"", ""id"": ""/m/0jxwqx"", ""actor"": ""Angus Macfadyen""}"	1
+cultured_badass	"{""char"": ""Arthur Burns"", ""movie"": ""The Proposition"", ""id"": ""/m/0k66rt"", ""actor"": ""Danny Huston""}"	1
+dean_bitterman	"{""char"": ""Richard Vernon"", ""movie"": ""The Breakfast Club"", ""id"": ""/m/0k4l6b"", ""actor"": ""Paul Gleason""}"	-1
+dean_bitterman	"{""char"": ""Ed Rooney"", ""movie"": ""Ferris Bueller's Day Off"", ""id"": ""/m/0jy52w"", ""actor"": ""Jeffrey Jones""}"	-1
+dean_bitterman	"{""char"": ""Mr. Nolan"", ""movie"": ""Dead Poets Society"", ""id"": ""/m/0jx21w"", ""actor"": ""Norman Lloyd""}"	-1
+dean_bitterman	"{""char"": ""Dean Richmond"", ""movie"": ""The Nutty Professor"", ""id"": ""/m/0k60j5"", ""actor"": ""Larry Miller""}"	-1
+dirty_cop	"{""char"": ""Alonzo"", ""movie"": ""Training Day"", ""id"": ""/m/0k79b3"", ""actor"": ""Denzel Washington""}"	-1
+dirty_cop	"{""char"": ""Dennis Peck"", ""movie"": ""Internal Affairs"", ""id"": ""/m/0jzyzv"", ""actor"": ""Richard Gere""}"	-1
+dirty_cop	"{""char"": ""Colin Sullivan"", ""movie"": ""The Departed"", ""id"": ""/m/0k4xjq"", ""actor"": ""Matt Damon""}"	-1
+dirty_cop	"{""char"": ""Police Captain Hank Quinlan"", ""movie"": ""Touch of Evil"", ""id"": ""/m/0k78gf"", ""actor"": ""Orson Welles""}"	-1
+dirty_cop	"{""char"": ""Rooster"", ""movie"": ""Righteous Kill"", ""id"": ""/m/02vcq3r"", ""actor"": ""Al Pacino""}"	-1
+dirty_cop	"{""char"": ""Abel Turner"", ""movie"": ""Lakeview Terrace"", ""id"": ""/m/02tb650"", ""actor"": ""Samuel L. Jackson""}"	-1
+dirty_cop	"{""char"": ""The Lieutenant"", ""movie"": ""Bad Lieutenant"", ""id"": ""/m/0jtz28"", ""actor"": ""Harvey Keitel""}"	-1
+ditz	"{""char"": ""Cher Horowitz"", ""movie"": ""Clueless"", ""id"": ""/m/0jwjsy"", ""actor"": ""Alicia Silverstone""}"	0
+ditz	"{""char"": ""Mr. Bean"", ""movie"": ""Mr. Bean's Holiday"", ""id"": ""/m/0jygqg"", ""actor"": ""Rowan Atkinson""}"	0
+ditz	"{""char"": ""Arthur Bach"", ""movie"": ""Arthur"", ""id"": ""/m/0ghdkxh"", ""actor"": ""Russell Brand""}"	0
+ditz	"{""char"": ""Nick"", ""movie"": ""30 Minutes or Less"", ""id"": ""/m/0gvd8dq"", ""actor"": ""Jesse Eisenberg""}"	0
+ditz	"{""char"": ""Henry Roth"", ""movie"": ""50 First Dates"", ""id"": ""/m/0jsll5"", ""actor"": ""Adam Sandler""}"	0
+ditz	"{""char"": ""Michael Newman"", ""movie"": ""Click"", ""id"": ""/m/0jwj2t"", ""actor"": ""Adam Sandler""}"	0
+ditz	"{""char"": ""Chuck Levine"", ""movie"": ""I Now Pronounce You Chuck and Larry"", ""id"": ""/m/02vbl__"", ""actor"": ""Adam Sandler""}"	0
+doormat	"{""char"": ""George McFly"", ""movie"": ""Back to the Future"", ""id"": ""/m/0jty5w"", ""actor"": ""Crispin Glover""}"	-1
+doormat	"{""char"": ""Harry Dunne"", ""movie"": ""Dumb & Dumber"", ""id"": ""/m/0jxmxp"", ""actor"": ""Jeff Daniels""}"	-1
+doormat	"{""char"": ""Belle"", ""movie"": ""Beauty and the Beast: The Enchanted Christmas"", ""id"": ""/m/0fprkm7"", ""actor"": ""Paige O'Hara""}"	-1
+doormat	"{""char"": ""Stu Price"", ""movie"": ""The Hangover"", ""id"": ""/m/05srhg_"", ""actor"": ""Ed Helms""}"	-1
+drill_sargeant_nasty	"{""char"": ""Gny. Sgt. Hartman"", ""movie"": ""Full Metal Jacket"", ""id"": ""/m/0jykjt"", ""actor"": ""R. Lee Ermey""}"	-1
+drill_sargeant_nasty	"{""char"": ""Master Chief John James Urgayle"", ""movie"": ""G.I. Jane"", ""id"": ""/m/0jylf1"", ""actor"": ""Viggo Mortensen""}"	-1
+drill_sargeant_nasty	"{""char"": ""Sgt. Hulka"", ""movie"": ""Stripes"", ""id"": ""/m/022108v"", ""actor"": ""Warren Oates""}"	-1
+drill_sargeant_nasty	"{""char"": ""Sergeant Thomas Highway"", ""movie"": ""Heartbreak Ridge"", ""id"": ""/m/0jz8d6"", ""actor"": ""Clint Eastwood""}"	-1
+drill_sargeant_nasty	"{""char"": ""Staff Sergeant Robert Barnes"", ""movie"": ""Platoon"", ""id"": ""/m/0k1yyt"", ""actor"": ""Tom Berenger""}"	-1
+drill_sargeant_nasty	"{""char"": ""Maj. John Reisman"", ""movie"": ""The Dirty Dozen: The Next Mission"", ""id"": ""/m/0b78ft6"", ""actor"": ""Lee Marvin""}"	-1
+dumb_blonde	"{""char"": ""Kitty Packard"", ""movie"": ""Dinner at Eight"", ""id"": ""/m/0jx9zj"", ""actor"": ""Jean Harlow""}"	-1
+dumb_blonde	"{""char"": ""Cindy Campbell"", ""movie"": ""Scary Movie 4"", ""id"": ""/m/0k2y_7"", ""actor"": ""Anna Faris""}"	-1
+dumb_blonde	"{""char"": ""Cindy Campbell"", ""movie"": ""Scary Movie 3"", ""id"": ""/m/0k2z05"", ""actor"": ""Anna Faris""}"	-1
+dumb_blonde	"{""char"": ""Brandi"", ""movie"": ""Observe and Report"", ""id"": ""/m/059sp8v"", ""actor"": ""Anna Faris""}"	-1
+dumb_blonde	"{""char"": ""Pola Debevoise"", ""movie"": ""How to Marry a Millionaire"", ""id"": ""/m/0jzmyb"", ""actor"": ""Marilyn Monroe""}"	-1
+dumb_blonde	"{""char"": ""Romy White"", ""movie"": ""Romy and Michele's High School Reunion"", ""id"": ""/m/0k2p5c"", ""actor"": ""Mira Sorvino""}"	-1
+dumb_blonde	"{""char"": ""Michele Weinberger"", ""movie"": ""Romy and Michele's High School Reunion"", ""id"": ""/m/0k2p5j"", ""actor"": ""Lisa Kudrow""}"	-1
+dumb_blonde	"{""char"": ""Suzanne Stone Maretto"", ""movie"": ""To Die For"", ""id"": ""/m/0k75t3"", ""actor"": ""Nicole Kidman""}"	-1
+dumb_blonde	"{""char"": ""Rocky Horror - A Creation"", ""movie"": ""The Rocky Horror Picture Show"", ""id"": ""/m/02tb6wq"", ""actor"": ""Peter Hinwood""}"	-1
+dumb_blonde	"{""char"": ""Mia"", ""movie"": ""Stan Helsing"", ""id"": ""/m/0gc3g1p"", ""actor"": ""Desi Lydic""}"	-1
+dumb_blonde	"{""char"": ""Lina Lamont"", ""movie"": ""Singin' in the Rain"", ""id"": ""/m/0k3b2r"", ""actor"": ""Jean Hagen""}"	-1
+dumb_muscle	"{""char"": ""Lennie Pike"", ""movie"": ""It's a Mad, Mad, Mad, Mad World"", ""id"": ""/m/01z0cck"", ""actor"": ""Jonathan Winters""}"	-1
+dumb_muscle	"{""char"": ""Mongo"", ""movie"": ""Blazing Saddles"", ""id"": ""/m/04w0vjn"", ""actor"": ""Alex Karras""}"	-1
+dumb_muscle	"{""char"": ""Fezzik"", ""movie"": ""The Princess Bride"", ""id"": ""/m/0k65zh"", ""actor"": ""Andr\u00e9 the Giant""}"	-1
+dumb_muscle	"{""char"": ""Karl Childers"", ""movie"": ""Sling Blade"", ""id"": ""/m/0k3dtt"", ""actor"": ""Billy Bob Thornton""}"	-1
+eccentric_mentor	"{""char"": ""Aughra"", ""movie"": ""The Dark Crystal"", ""id"": ""/m/02vbpft"", ""actor"": ""Billie Whitelaw""}"	0
+eccentric_mentor	"{""char"": ""Mr. Kesuke Miyagi"", ""movie"": ""The Karate Kid"", ""id"": ""/m/0k5jxz"", ""actor"": ""Pat Morita""}"	0
+eccentric_mentor	"{""char"": ""Yoda"", ""movie"": ""Star Wars Episode V: The Empire Strikes Back"", ""id"": ""/m/02sg6hm"", ""actor"": ""Frank Oz""}"	0
+eccentric_mentor	"{""char"": ""Gandalf"", ""movie"": ""The Lord of the Rings: The Fellowship of the Ring"", ""id"": ""/m/0k5s9d"", ""actor"": ""Ian McKellen""}"	0
+eccentric_mentor	"{""char"": ""Fin Raziel"", ""movie"": ""Willow"", ""id"": ""/m/0k837x"", ""actor"": ""Patricia Hayes""}"	0
+egomaniac_hunter	"{""char"": ""Clayton"", ""movie"": ""Tarzan"", ""id"": ""/m/0k42s4"", ""actor"": ""Brian Blessed""}"	-1
+egomaniac_hunter	"{""char"": ""Gaston"", ""movie"": ""Beauty and the Beast"", ""id"": ""/m/0jv4jc"", ""actor"": ""Richard White""}"	-1
+egomaniac_hunter	"{""char"": ""Charles Muntz"", ""movie"": ""Up"", ""id"": ""/m/045_c9z"", ""actor"": ""Christopher Plummer""}"	-1
+egomaniac_hunter	"{""char"": ""John Wilson"", ""movie"": ""White Hunter, Black Heart"", ""id"": ""/m/0k818w"", ""actor"": ""Clint Eastwood""}"	-1
+egomaniac_hunter	"{""char"": ""Victor Quartermaine"", ""movie"": ""Wallace & Gromit: The Curse of the Were-Rabbit"", ""id"": ""/m/0k7vr9"", ""actor"": ""Ralph Fiennes""}"	-1
+egomaniac_hunter	"{""char"": ""The Predator"", ""movie"": ""Predator 2"", ""id"": ""/m/03lpp78"", ""actor"": ""Kevin Peter Hall""}"	-1
+egomaniac_hunter	"{""char"": ""The Predator"", ""movie"": ""Predator"", ""id"": ""/m/0h34xg2"", ""actor"": ""Peter Cullen""}"	-1
+evil_prince	"{""char"": ""Prince Yu"", ""movie"": ""Curse of the Golden Flower"", ""id"": ""/m/0gbxx9x"", ""actor"": ""Junjie Qin""}"	0
+evil_prince	"{""char"": ""Crown Prince Leopold"", ""movie"": ""The Illusionist"", ""id"": ""/m/0k5f_q"", ""actor"": ""Rufus Sewell""}"	0
+evil_prince	"{""char"": ""Commodus"", ""movie"": ""Gladiator"", ""id"": ""/m/0jytd4"", ""actor"": ""Joaquin Phoenix""}"	0
+evil_prince	"{""char"": ""Lord Nelson Rathbone"", ""movie"": ""Shanghai Knights"", ""id"": ""/m/02vd4f4"", ""actor"": ""Aidan Gillen""}"	0
+evil_prince	"{""char"": ""Prince Nuada"", ""movie"": ""Hellboy 2: The Golden Army"", ""id"": ""/m/04m9lhl"", ""actor"": ""Luke Goss""}"	0
+evil_prince	"{""char"": ""Nizam"", ""movie"": ""Prince of Persia: The Sands of Time"", ""id"": ""/m/04m5488"", ""actor"": ""Ben Kingsley""}"	0
+evil_prince	"{""char"": ""Prince Otwani"", ""movie"": ""Sheena"", ""id"": ""/m/0k36bq"", ""actor"": ""Trevor Thomas""}"	0
+evil_prince	"{""char"": ""Prince Humperdinck"", ""movie"": ""The Princess Bride"", ""id"": ""/m/0k65z0"", ""actor"": ""Chris Sarandon""}"	0
+fastest_gun_in_the_west	"{""char"": ""Jim"", ""movie"": ""Blazing Saddles"", ""id"": ""/m/0jvhqr"", ""actor"": ""Gene Wilder""}"	1
+fastest_gun_in_the_west	"{""char"": ""Bret Maverick"", ""movie"": ""Maverick"", ""id"": ""/m/0k0hyr"", ""actor"": ""Mel Gibson""}"	1
+fastest_gun_in_the_west	"{""char"": ""Ned Nederlander"", ""movie"": ""\u00a1Three Amigos!"", ""id"": ""/m/0jshd9"", ""actor"": ""Martin Short""}"	1
+fastest_gun_in_the_west	"{""char"": ""Harmonica"", ""movie"": ""Once Upon a Time in the West"", ""id"": ""/m/0k1j46"", ""actor"": ""Charles Bronson""}"	1
+fastest_gun_in_the_west	"{""char"": ""Sheriff Woody"", ""movie"": ""Toy Story"", ""id"": ""/m/0k78tv"", ""actor"": ""Tom Hanks""}"	1
+fastest_gun_in_the_west	"{""char"": ""Ben Wade"", ""movie"": ""3:10 to Yuma"", ""id"": ""/m/03hqy08"", ""actor"": ""Russell Crowe""}"	1
+fastest_gun_in_the_west	"{""char"": ""RoboCop"", ""movie"": ""RoboCop"", ""id"": ""/m/0h5q82q"", ""actor"": ""Peter Weller""}"	1
+father_to_his_men	"{""char"": ""Capt. Mikhail Polenin"", ""movie"": ""K-19: The Widowmaker"", ""id"": ""/m/0j_9gv"", ""actor"": ""Liam Neeson""}"	1
+father_to_his_men	"{""char"": ""Capt. Nathan Cutting Brittles"", ""movie"": ""She Wore a Yellow Ribbon"", ""id"": ""/m/0k35w2"", ""actor"": ""John Wayne""}"	1
+father_to_his_men	"{""char"": ""Maximus Decimus Meridius"", ""movie"": ""Gladiator"", ""id"": ""/m/0jytc_"", ""actor"": ""Russell Crowe""}"	1
+father_to_his_men	"{""char"": ""Jack Aubrey"", ""movie"": ""Master and Commander: The Far Side of the World"", ""id"": ""/m/0k0h66"", ""actor"": ""Russell Crowe""}"	1
+father_to_his_men	"{""char"": ""Captain Benjamin L. Willard"", ""movie"": ""Apocalypse Now"", ""id"": ""/m/0jtp2f"", ""actor"": ""Martin Sheen""}"	1
+father_to_his_men	"{""char"": ""Captain of the 'Weser'"", ""movie"": ""Das Boot"", ""id"": ""/m/0j47kxy"", ""actor"": ""G\u00fcnter Lamprecht""}"	1
+father_to_his_men	"{""char"": ""Captain Nemo"", ""movie"": ""The League of Extraordinary Gentlemen"", ""id"": ""/m/0k5nrw"", ""actor"": ""Naseeruddin Shah""}"	1
+father_to_his_men	"{""char"": ""Capt. James 'Bugger' Staros"", ""movie"": ""The Thin Red Line"", ""id"": ""/m/0k6nwg"", ""actor"": ""Elias Koteas""}"	1
+father_to_his_men	"{""char"": ""Gen. Robert E. Lee"", ""movie"": ""Gettysburg"", ""id"": ""/m/0jyqwm"", ""actor"": ""Martin Sheen""}"	1
+father_to_his_men	"{""char"": ""General Kuribayashi"", ""movie"": ""Letters from Iwo Jima"", ""id"": ""/m/03jtctp"", ""actor"": ""Ken Watanabe""}"	1
+father_to_his_men	"{""char"": ""Lt. Commander Ron Hunter"", ""movie"": ""Crimson Tide"", ""id"": ""/m/0jwsnp"", ""actor"": ""Denzel Washington""}"	1
+father_to_his_men	"{""char"": ""Christopher Pike"", ""movie"": ""Star Trek"", ""id"": ""/m/03ld2yg"", ""actor"": ""Bruce Greenwood""}"	1
+father_to_his_men	"{""char"": ""Zordon"", ""movie"": ""Mighty Morphin' Power Rangers: The Movie"", ""id"": ""/m/0k0nmw"", ""actor"": ""Nicholas Bell""}"	1
+father_to_his_men	"{""char"": ""Wolfstan"", ""movie"": ""Black Death"", ""id"": ""/m/0cg03cg"", ""actor"": ""John Lynch""}"	1
+father_to_his_men	"{""char"": ""Major Henry West"", ""movie"": ""28 Days Later"", ""id"": ""/m/0jskmk"", ""actor"": ""Christopher Eccleston""}"	1
+final_girl	"{""char"": ""Nancy Thompson"", ""movie"": ""A Nightmare on Elm Street"", ""id"": ""/m/0jsvgr"", ""actor"": ""Heather Langenkamp""}"	0
+final_girl	"{""char"": ""Sidney Prescott"", ""movie"": ""Scream"", ""id"": ""/m/0k2_bc"", ""actor"": ""Neve Campbell""}"	0
+final_girl	"{""char"": ""Ellen Ripley"", ""movie"": ""Alien"", ""id"": ""/m/0jt7sz"", ""actor"": ""Sigourney Weaver""}"	0
+final_girl	"{""char"": ""Sarah Connor"", ""movie"": ""The Terminator"", ""id"": ""/m/0k6m_h"", ""actor"": ""Linda Hamilton""}"	0
+final_girl	"{""char"": ""Laurie Strode"", ""movie"": ""Halloween"", ""id"": ""/m/0jz2x0"", ""actor"": ""Jamie Lee Curtis""}"	0
+final_girl	"{""char"": ""Whitney Miller"", ""movie"": ""Friday the 13th"", ""id"": ""/m/04ls8ty"", ""actor"": ""Amanda Righetti""}"	0
+gadgeteer_genius	"{""char"": ""Tony Stark"", ""movie"": ""Iron Man"", ""id"": ""/m/0j1__hv"", ""actor"": ""Robert Downey Jr.""}"	1
+gadgeteer_genius	"{""char"": ""Dr. Loveless"", ""movie"": ""Wild Wild West"", ""id"": ""/m/0k82tm"", ""actor"": ""Kenneth Branagh""}"	1
+gadgeteer_genius	"{""char"": ""Artemus Gordon"", ""movie"": ""Wild Wild West"", ""id"": ""/m/0k82tg"", ""actor"": ""Kevin Kline""}"	1
+gadgeteer_genius	"{""char"": ""Lewis"", ""movie"": ""Meet the Robinsons"", ""id"": ""/m/0k0kn_"", ""actor"": ""Tom Selleck""}"	1
+gadgeteer_genius	"{""char"": ""Anakin Skywalker"", ""movie"": ""Star Wars Episode I: The Phantom Menace"", ""id"": ""/m/02sg5rn"", ""actor"": ""Jake Lloyd""}"	1
+gadgeteer_genius	"{""char"": ""Ling Ling Fat"", ""movie"": ""Forbidden City Cop"", ""id"": ""/m/02vb6nv"", ""actor"": ""Stephen Chow""}"	1
+gadgeteer_genius	"{""char"": ""Lucius Fox"", ""movie"": ""The Dark Knight"", ""id"": ""/m/045yrqg"", ""actor"": ""Morgan Freeman""}"	1
+gentleman_thief	"{""char"": ""John Robie"", ""movie"": ""To Catch a Thief"", ""id"": ""/m/0k75r_"", ""actor"": ""Cary Grant""}"	1
+gentleman_thief	"{""char"": ""Sir Charles Lytton"", ""movie"": ""The Pink Panther"", ""id"": ""/m/0k63yr"", ""actor"": ""David Niven""}"	1
+gentleman_thief	"{""char"": ""Neil McCauley"", ""movie"": ""Heat"", ""id"": ""/m/0jz8sq"", ""actor"": ""Robert De Niro""}"	1
+gentleman_thief	"{""char"": ""Rodney Skinner"", ""movie"": ""The League of Extraordinary Gentlemen"", ""id"": ""/m/0k5ns5"", ""actor"": ""Tony Curran""}"	1
+gentleman_thief	"{""char"": ""Cobb"", ""movie"": ""Inception"", ""id"": ""/m/0667g_f"", ""actor"": ""Leonardo DiCaprio""}"	1
+gentleman_thief	"{""char"": ""Nick Wells"", ""movie"": ""The Score"", ""id"": ""/m/0k6d1f"", ""actor"": ""Robert De Niro""}"	1
+granola_person	"{""char"": ""Beth"", ""movie"": ""John Tucker Must Die"", ""id"": ""/m/0j_6h2"", ""actor"": ""Sophia Bush""}"	0
+granola_person	"{""char"": ""Jasper Palmer"", ""movie"": ""Children of Men"", ""id"": ""/m/0jwbh7"", ""actor"": ""Michael Caine""}"	0
+granola_person	"{""char"": ""Max Dennison"", ""movie"": ""Hocus Pocus"", ""id"": ""/m/02vd92w"", ""actor"": ""Omri Katz""}"	0
+granola_person	"{""char"": ""Lotte Schwartz"", ""movie"": ""Being John Malkovich"", ""id"": ""/m/0jv6mp"", ""actor"": ""Cameron Diaz""}"	0
+granola_person	"{""char"": ""Ana Pascal"", ""movie"": ""Stranger Than Fiction"", ""id"": ""/m/0k3t_x"", ""actor"": ""Maggie Gyllenhaal""}"	0
+granola_person	"{""char"": ""Ashley"", ""movie"": ""Orange County"", ""id"": ""/m/0k1m4g"", ""actor"": ""Schuyler Fisk""}"	0
+granola_person	"{""char"": ""Sheldon Mopes"", ""movie"": ""Death to Smoochy"", ""id"": ""/m/0jx3b8"", ""actor"": ""Edward Norton""}"	0
+granola_person	"{""char"": ""Bill Django"", ""movie"": ""The Men Who Stare at Goats"", ""id"": ""/m/06679y8"", ""actor"": ""Jeff Bridges""}"	0
+grumpy_old_man	"{""char"": ""Max Goldman"", ""movie"": ""Grumpy Old Men"", ""id"": ""/m/02vcwz0"", ""actor"": ""Walter Matthau""}"	-1
+grumpy_old_man	"{""char"": ""Walt Kowalski"", ""movie"": ""Gran Torino"", ""id"": ""/m/059t435"", ""actor"": ""Clint Eastwood""}"	-1
+grumpy_old_man	"{""char"": ""Carl Fredricksen"", ""movie"": ""Up"", ""id"": ""/m/045_cb3"", ""actor"": ""Ed Asner""}"	-1
+grumpy_old_man	"{""char"": ""Howard Beale"", ""movie"": ""Network"", ""id"": ""/m/0k168v"", ""actor"": ""Peter Finch""}"	-1
+grumpy_old_man	"{""char"": ""Judge Elihu Smails"", ""movie"": ""Caddyshack"", ""id"": ""/m/04w0v_v"", ""actor"": ""Ted Knight""}"	-1
+hardboiled_detective	"{""char"": ""Sam Spade"", ""movie"": ""The Maltese Falcon"", ""id"": ""/m/04dmkpj"", ""actor"": ""Humphrey Bogart""}"	1
+hardboiled_detective	"{""char"": ""Philip Marlowe"", ""movie"": ""The Big Sleep"", ""id"": ""/m/0k4gwm"", ""actor"": ""Humphrey Bogart""}"	1
+hardboiled_detective	"{""char"": ""Dist. Atty. Martin Ferguson"", ""movie"": ""The Enforcer"", ""id"": ""/m/0k4_sm"", ""actor"": ""Humphrey Bogart""}"	1
+hardboiled_detective	"{""char"": ""Capt. 'Rip' Murdock"", ""movie"": ""Dead Reckoning"", ""id"": ""/m/0jx253"", ""actor"": ""Humphrey Bogart""}"	1
+hardboiled_detective	"{""char"": ""Jeff Bailey"", ""movie"": ""Out of the Past"", ""id"": ""/m/0k1nzj"", ""actor"": ""Robert Mitchum""}"	1
+hardboiled_detective	"{""char"": ""J. J. Gittes"", ""movie"": ""Chinatown"", ""id"": ""/m/0jwcjk"", ""actor"": ""Jack Nicholson""}"	1
+hardboiled_detective	"{""char"": ""Eddie Valiant"", ""movie"": ""Who Framed Roger Rabbit"", ""id"": ""/m/0k81jp"", ""actor"": ""Bob Hoskins""}"	1
+hardboiled_detective	"{""char"": ""Rick Deckard"", ""movie"": ""Blade Runner"", ""id"": ""/m/0jvhbm"", ""actor"": ""Harrison Ford""}"	1
+heartbroken_badass	"{""char"": ""Mina Harker"", ""movie"": ""The League of Extraordinary Gentlemen"", ""id"": ""/m/0k5ns0"", ""actor"": ""Peta Wilson""}"	1
+heartbroken_badass	"{""char"": ""James Bond"", ""movie"": ""Quantum of Solace"", ""id"": ""/m/03hqwg_"", ""actor"": ""Daniel Craig""}"	1
+heartbroken_badass	"{""char"": ""Max Rockatansky"", ""movie"": ""Mad Max"", ""id"": ""/m/0k09b2"", ""actor"": ""Mel Gibson""}"	1
+heartbroken_badass	"{""char"": ""Josey Wales"", ""movie"": ""The Outlaw Josey Wales"", ""id"": ""/m/0k61jr"", ""actor"": ""Clint Eastwood""}"	1
+heartbroken_badass	"{""char"": ""Tallahassee"", ""movie"": ""Zombieland"", ""id"": ""/m/05skv28"", ""actor"": ""Woody Harrelson""}"	1
+heartbroken_badass	"{""char"": ""Bruce Wayne"", ""movie"": ""The Dark Knight Rises"", ""id"": ""/m/0n4g1dv"", ""actor"": ""Christian Bale""}"	1
+heartbroken_badass	"{""char"": ""Bill"", ""movie"": ""Kill Bill Volume 1"", ""id"": ""/m/0j_fvv"", ""actor"": ""David Carradine""}"	1
+henpecked_husband	"{""char"": ""Norbit"", ""movie"": ""Norbit"", ""id"": ""/m/01z0rf5"", ""actor"": ""Eddie Murphy""}"	-1
+henpecked_husband	"{""char"": ""Bobby Davis"", ""movie"": ""Wild Hogs"", ""id"": ""/m/0256cyz"", ""actor"": ""Martin Lawrence""}"	-1
+henpecked_husband	"{""char"": ""Dr. Ernest Menville"", ""movie"": ""Death Becomes Her"", ""id"": ""/m/0jx2_4"", ""actor"": ""Bruce Willis""}"	-1
+henpecked_husband	"{""char"": ""Dr. Howard Bannister"", ""movie"": ""What's Up, Doc?"", ""id"": ""/m/0k7_cy"", ""actor"": ""Ryan O'Neal""}"	-1
+henpecked_husband	"{""char"": ""Ned Schneebly"", ""movie"": ""School of Rock"", ""id"": ""/m/0k2zjr"", ""actor"": ""Mike White""}"	-1
+hitman_with_a_heart	"{""char"": ""Julian Noble"", ""movie"": ""The Matador"", ""id"": ""/m/0k5wt7"", ""actor"": ""Pierce Brosnan""}"	1
+hitman_with_a_heart	"{""char"": ""Ghost Dog"", ""movie"": ""Ghost Dog: The Way of the Samurai"", ""id"": ""/m/0jyr6h"", ""actor"": ""Forest Whitaker""}"	1
+hitman_with_a_heart	"{""char"": ""Jimmy 'The Tulip' Tudeski"", ""movie"": ""The Whole Nine Yards"", ""id"": ""/m/0k6x0x"", ""actor"": ""Bruce Willis""}"	1
+hitman_with_a_heart	"{""char"": ""Mr. Goodkat"", ""movie"": ""Lucky Number Slevin"", ""id"": ""/m/0k087f"", ""actor"": ""Bruce Willis""}"	1
+hitman_with_a_heart	"{""char"": ""John Lee"", ""movie"": ""The Replacement Killers"", ""id"": ""/m/0k68kd"", ""actor"": ""Chow Yun-Fat""}"	1
+hitman_with_a_heart	"{""char"": ""Il Duce"", ""movie"": ""The Boondock Saints"", ""id"": ""/m/0k4k6j"", ""actor"": ""Billy Connolly""}"	1
+hitman_with_a_heart	"{""char"": ""Jason Bourne"", ""movie"": ""The Bourne Identity"", ""id"": ""/m/0k4kcz"", ""actor"": ""Matt Damon""}"	1
+hitman_with_a_heart	"{""char"": ""Frank Falenczyk"", ""movie"": ""You Kill Me"", ""id"": ""/m/02vb7cx"", ""actor"": ""Ben Kingsley""}"	1
+hitman_with_a_heart	"{""char"": ""Wesley Gibson"", ""movie"": ""Wanted"", ""id"": ""/m/02vb_l5"", ""actor"": ""James McAvoy""}"	1
+hitman_with_a_heart	"{""char"": ""Vincent"", ""movie"": ""Collateral"", ""id"": ""/m/0jwkz6"", ""actor"": ""Tom Cruise""}"	1
+jerk_jock	"{""char"": ""Austin"", ""movie"": ""Not Another Teen Movie"", ""id"": ""/m/0k1cs5"", ""actor"": ""Eric Christian Olsen""}"	-1
+jerk_jock	"{""char"": ""Johnny Lawrence"", ""movie"": ""The Karate Kid"", ""id"": ""/m/0k5jyf"", ""actor"": ""William Zabka""}"	-1
+jerk_jock	"{""char"": ""Gaston"", ""movie"": ""Beauty and the Beast"", ""id"": ""/m/0jv4jc"", ""actor"": ""Richard White""}"	-1
+jerk_jock	"{""char"": ""Jim"", ""movie"": ""Edward Scissorhands"", ""id"": ""/m/0jxqwd"", ""actor"": ""Anthony Michael Hall""}"	-1
+jerk_jock	"{""char"": ""Biff Tannen"", ""movie"": ""Back to the Future"", ""id"": ""/m/0jty60"", ""actor"": ""Thomas F. Wilson""}"	-1
+jerk_jock	"{""char"": ""Kurt Kelly"", ""movie"": ""Heathers"", ""id"": ""/m/0h5slxp"", ""actor"": ""Lance Fenton""}"	-1
+jerk_jock	"{""char"": ""Bo"", ""movie"": ""Cursed"", ""id"": ""/m/0jwwhw"", ""actor"": ""Milo Ventimiglia""}"	-1
+jerk_jock	"{""char"": ""Mike Dexter"", ""movie"": ""Can't Hardly Wait"", ""id"": ""/m/03jsnmf"", ""actor"": ""Peter Facinelli""}"	-1
+jerk_jock	"{""char"": ""Garth"", ""movie"": ""Alpha and Omega"", ""id"": ""/m/0d2jcym"", ""actor"": ""Chris Carmack""}"	-1
+junkie_prophet	"{""char"": ""Agatha"", ""movie"": ""Minority Report"", ""id"": ""/m/0k0pgt"", ""actor"": ""Samantha Morton""}"	0
+junkie_prophet	"{""char"": ""Cassie Holmes"", ""movie"": ""Push"", ""id"": ""/m/040kc5w"", ""actor"": ""Dakota Fanning""}"	0
+klutz	"{""char"": ""Mia Thermopolis"", ""movie"": ""The Princess Diaries"", ""id"": ""/m/02vbfh2"", ""actor"": ""Anne Hathaway""}"	-1
+klutz	"{""char"": ""Seymour Krelborn"", ""movie"": ""Little Shop of Horrors"", ""id"": ""/m/0k020r"", ""actor"": ""Rick Moranis""}"	-1
+loser_protagonist	"{""char"": ""Paul Blart"", ""movie"": ""Paul Blart: Mall Cop"", ""id"": ""/m/059sm0m"", ""actor"": ""Kevin James""}"	-1
+loser_protagonist	"{""char"": ""Sidney Young"", ""movie"": ""How to Lose Friends & Alienate People"", ""id"": ""/m/040l_q8"", ""actor"": ""Simon Pegg""}"	-1
+loser_protagonist	"{""char"": ""Dennis"", ""movie"": ""Run, Fat Boy, Run"", ""id"": ""/m/03lvx8n"", ""actor"": ""Simon Pegg""}"	-1
+loser_protagonist	"{""char"": ""Mark Bellison"", ""movie"": ""The Invention of Lying"", ""id"": ""/m/062xh9l"", ""actor"": ""Ricky Gervais""}"	-1
+loser_protagonist	"{""char"": ""Dewey Finn"", ""movie"": ""School of Rock"", ""id"": ""/m/0k2zjf"", ""actor"": ""Jack Black""}"	-1
+loser_protagonist	"{""char"": ""Rob Gordon"", ""movie"": ""High Fidelity"", ""id"": ""/m/02vb_jp"", ""actor"": ""John Cusack""}"	-1
+loveable_rogue	"{""char"": ""Han Solo"", ""movie"": ""Star Wars Episode IV: A New Hope"", ""id"": ""/m/0k3r1_"", ""actor"": ""Harrison Ford""}"	1
+loveable_rogue	"{""char"": ""Captain Jack Sparrow"", ""movie"": ""Pirates of the Caribbean: Dead Man's Chest"", ""id"": ""/m/0k1xxm"", ""actor"": ""Johnny Depp""}"	1
+loveable_rogue	"{""char"": ""Peter Blood"", ""movie"": ""Captain Blood"", ""id"": ""/m/02vb_m3"", ""actor"": ""Errol Flynn""}"	1
+loveable_rogue	"{""char"": ""Capt. Louis Renault"", ""movie"": ""Casablanca"", ""id"": ""/m/05286qg"", ""actor"": ""Claude Rains""}"	1
+loveable_rogue	"{""char"": ""Abu"", ""movie"": ""The Thief of Bagdad"", ""id"": ""/m/0k6nkk"", ""actor"": ""Sabu Dastagir""}"	1
+loveable_rogue	"{""char"": ""Eames"", ""movie"": ""Inception"", ""id"": ""/m/07lkzl3"", ""actor"": ""Tom Hardy""}"	1
+loveable_rogue	"{""char"": ""Rodney Skinner"", ""movie"": ""The League of Extraordinary Gentlemen"", ""id"": ""/m/0k5ns5"", ""actor"": ""Tony Curran""}"	1
+loveable_rogue	"{""char"": ""Harold Hill"", ""movie"": ""The Music Man"", ""id"": ""/m/04hv61w"", ""actor"": ""Matthew Broderick""}"	1
+loveable_rogue	"{""char"": ""Wolverine"", ""movie"": ""X-Men"", ""id"": ""/m/0k86q4"", ""actor"": ""Hugh Jackman""}"	1
+master_swordsman	"{""char"": ""Qui-Gon Jinn"", ""movie"": ""Star Wars Episode I: The Phantom Menace"", ""id"": ""/m/0k3qyf"", ""actor"": ""Liam Neeson""}"	1
+master_swordsman	"{""char"": ""Obi-Wan Kenobi"", ""movie"": ""Star Wars Episode I: The Phantom Menace"", ""id"": ""/m/0k3qy3"", ""actor"": ""Ewan McGregor""}"	1
+master_swordsman	"{""char"": ""Darth Vader"", ""movie"": ""Star Wars Episode V: The Empire Strikes Back"", ""id"": ""/m/02nwtmm"", ""actor"": ""James Earl Jones""}"	1
+master_swordsman	"{""char"": ""Inigo Montoya"", ""movie"": ""The Princess Bride"", ""id"": ""/m/0k65z5"", ""actor"": ""Mandy Patinkin""}"	1
+master_swordsman	"{""char"": ""Bill"", ""movie"": ""Kill Bill Volume 1"", ""id"": ""/m/0j_fvv"", ""actor"": ""David Carradine""}"	1
+master_swordsman	"{""char"": ""Archibald Cunningham"", ""movie"": ""Rob Roy"", ""id"": ""/m/0k2ltj"", ""actor"": ""Tim Roth""}"	1
+master_swordsman	"{""char"": ""Madmartigan"", ""movie"": ""Willow"", ""id"": ""/m/0k8378"", ""actor"": ""Val Kilmer""}"	1
+master_swordsman	"{""char"": ""Nameless"", ""movie"": ""Hero"", ""id"": ""/m/0jzcr5"", ""actor"": ""Jet Li""}"	1
+master_swordsman	"{""char"": ""Broken Sword"", ""movie"": ""Hero"", ""id"": ""/m/0jzcrb"", ""actor"": ""Tony Leung Chiu Wai""}"	1
+master_swordsman	"{""char"": ""Aragorn"", ""movie"": ""The Lord of the Rings: The Return of the King"", ""id"": ""/m/0k5scp"", ""actor"": ""Viggo Mortensen""}"	1
+master_swordsman	"{""char"": ""Blade"", ""movie"": ""Blade"", ""id"": ""/m/0jvh78"", ""actor"": ""Wesley Snipes""}"	1
+master_swordsman	"{""char"": ""He-Man"", ""movie"": ""Masters of the Universe"", ""id"": ""/m/0k0h9d"", ""actor"": ""Dolph Lundgren""}"	1
+morally_bankrupt_banker	"{""char"": ""Mr. Perkins"", ""movie"": ""Despicable Me"", ""id"": ""/m/06zzgw6"", ""actor"": ""Will Arnett""}"	-1
+morally_bankrupt_banker	"{""char"": ""Patrick Bateman"", ""movie"": ""American Psycho"", ""id"": ""/m/0jtfcj"", ""actor"": ""Christian Bale""}"	-1
+morally_bankrupt_banker	"{""char"": ""Henry F. Potter"", ""movie"": ""It's a Wonderful Life"", ""id"": ""/m/0j_11c"", ""actor"": ""Lionel Barrymore""}"	-1
+officer_and_a_gentleman	"{""char"": ""Norrington"", ""movie"": ""Pirates of the Caribbean: Dead Man's Chest"", ""id"": ""/m/0k1xyd"", ""actor"": ""Jack Davenport""}"	1
+officer_and_a_gentleman	"{""char"": ""Col. Robert Gould Shaw"", ""movie"": ""Glory"", ""id"": ""/m/0jyts_"", ""actor"": ""Matthew Broderick""}"	1
+officer_and_a_gentleman	"{""char"": ""Jack Aubrey"", ""movie"": ""Master and Commander: The Far Side of the World"", ""id"": ""/m/0k0h66"", ""actor"": ""Russell Crowe""}"	1
+officer_and_a_gentleman	"{""char"": ""Captain Nicholls"", ""movie"": ""War Horse"", ""id"": ""/m/0gkcn1g"", ""actor"": ""Tom Hiddleston""}"	1
+ophelia	"{""char"": ""Elisabeth Burrows"", ""movie"": ""Don't Say a Word"", ""id"": ""/m/0jxfnl"", ""actor"": ""Brittany Murphy""}"	0
+ophelia	"{""char"": ""Crazy Cora"", ""movie"": ""Quigley Down Under"", ""id"": ""/m/02tb5g1"", ""actor"": ""Laura San Giacomo""}"	0
+ophelia	"{""char"": ""Justine"", ""movie"": ""Melancholia"", ""id"": ""/m/0gkj0cn"", ""actor"": ""Kirsten Dunst""}"	0
+ophelia	"{""char"": ""Gina Montana"", ""movie"": ""Scarface"", ""id"": ""/m/0k2ysf"", ""actor"": ""Mary Elizabeth Mastrantonio""}"	0
+ophelia	"{""char"": ""Jane Olsen"", ""movie"": ""The Cabinet of Dr. Caligari"", ""id"": ""/m/08cqh60"", ""actor"": ""Lil Dagover""}"	0
+playful_hacker	"{""char"": ""Kevin Flynn"", ""movie"": ""Tron"", ""id"": ""/m/0k7cbl"", ""actor"": ""Jeff Bridges""}"	1
+playful_hacker	"{""char"": ""Sam Flynn"", ""movie"": ""Tron: Legacy"", ""id"": ""/m/062y97x"", ""actor"": ""Garrett Hedlund""}"	1
+playful_hacker	"{""char"": ""Riley Poole"", ""movie"": ""National Treasure"", ""id"": ""/m/0k14vc"", ""actor"": ""Justin Bartha""}"	1
+playful_hacker	"{""char"": ""David Lightman"", ""movie"": ""WarGames"", ""id"": ""/m/0k7w8p"", ""actor"": ""Matthew Broderick""}"	1
+playful_hacker	"{""char"": ""Mr. Universe"", ""movie"": ""Serenity"", ""id"": ""/m/0k31lb"", ""actor"": ""David Krumholtz""}"	1
+prima_donna	"{""char"": ""Lina Lamont"", ""movie"": ""Singin' in the Rain"", ""id"": ""/m/0k3b2r"", ""actor"": ""Jean Hagen""}"	-1
+prima_donna	"{""char"": ""Sharpay Evans"", ""movie"": ""High School Musical"", ""id"": ""/m/0jzdz2"", ""actor"": ""Ashley Tisdale""}"	-1
+prima_donna	"{""char"": ""Sharpay Evans"", ""movie"": ""High School Musical 2"", ""id"": ""/m/02vc3dx"", ""actor"": ""Ashley Tisdale""}"	-1
+prima_donna	"{""char"": ""Sharpay Evans"", ""movie"": ""High School Musical 3: Senior Year"", ""id"": ""/m/03lyytc"", ""actor"": ""Ashley Tisdale""}"	-1
+prima_donna	"{""char"": ""Margo Channing"", ""movie"": ""All About Eve"", ""id"": ""/m/0jt8y2"", ""actor"": ""Bette Davis""}"	-1
+prima_donna	"{""char"": ""Norma Desmond"", ""movie"": ""Sunset Boulevard"", ""id"": ""/m/0k3ybb"", ""actor"": ""Gloria Swanson""}"	-1
+psycho_for_hire	"{""char"": ""Gaear Grimsrud"", ""movie"": ""Fargo"", ""id"": ""/m/0jy2x0"", ""actor"": ""Peter Stormare""}"	0
+psycho_for_hire	"{""char"": ""Harlen Maguire"", ""movie"": ""Road to Perdition"", ""id"": ""/m/0k2ljt"", ""actor"": ""Jude Law""}"	0
+psycho_for_hire	"{""char"": ""Mr. Blonde"", ""movie"": ""Reservoir Dogs"", ""id"": ""/m/0k2ggy"", ""actor"": ""Michael Madsen""}"	0
+psycho_for_hire	"{""char"": ""Red Grant"", ""movie"": ""From Russia with Love"", ""id"": ""/m/04p7pxj"", ""actor"": ""Robert Shaw""}"	0
+psycho_for_hire	"{""char"": ""Anton Chigurh"", ""movie"": ""No Country for Old Men"", ""id"": ""/m/03lgvz6"", ""actor"": ""Javier Bardem""}"	0
+psycho_for_hire	"{""char"": ""Jackson Rippner"", ""movie"": ""Red Eye"", ""id"": ""/m/0k2dm9"", ""actor"": ""Cillian Murphy""}"	0
+psycho_for_hire	"{""char"": ""Staff Sergeant Robert Barnes"", ""movie"": ""Platoon"", ""id"": ""/m/0k1yyt"", ""actor"": ""Tom Berenger""}"	0
+psycho_for_hire	"{""char"": ""George Higgins"", ""movie"": ""8mm"", ""id"": ""/m/03jsz47"", ""actor"": ""Chris Bauer""}"	0
+psycho_for_hire	"{""char"": ""Major Arnold Toht"", ""movie"": ""Indiana Jones and the Raiders of the Lost Ark"", ""id"": ""/m/02nwzyz"", ""actor"": ""Ronald Lacey""}"	0
+psycho_for_hire	"{""char"": ""Mortimer Brewster"", ""movie"": ""Arsenic and Old Lace"", ""id"": ""/m/0jtr3s"", ""actor"": ""Cary Grant""}"	0
+psycho_for_hire	"{""char"": ""Col. Paul Tanner"", ""movie"": ""My Fellow Americans"", ""id"": ""/m/04q604c"", ""actor"": ""Everett McGill""}"	0
+psycho_for_hire	"{""char"": ""Bullet Tooth Tony"", ""movie"": ""Snatch"", ""id"": ""/m/0k3gbw"", ""actor"": ""Vinnie Jones""}"	0
+psycho_for_hire	"{""char"": ""Waingro"", ""movie"": ""Heat"", ""id"": ""/m/03jrl1d"", ""actor"": ""Kevin Gage""}"	0
+psycho_for_hire	"{""char"": ""Jack Wilson"", ""movie"": ""Shane"", ""id"": ""/m/0k34x6"", ""actor"": ""Jack Palance""}"	0
+psycho_for_hire	"{""char"": ""Isaacs"", ""movie"": ""Hanna"", ""id"": ""/m/0gh94vc"", ""actor"": ""Tom Hollander""}"	0
+psycho_for_hire	"{""char"": ""Frank"", ""movie"": ""Once Upon a Time in the West"", ""id"": ""/m/0k1j4j"", ""actor"": ""Henry Fonda""}"	0
+pupil_turned_to_evil	"{""char"": ""Count Dooku"", ""movie"": ""Star Wars Episode II: Attack of the Clones"", ""id"": ""/m/0k3q_8"", ""actor"": ""Christopher Lee""}"	0
+pupil_turned_to_evil	"{""char"": ""Aaron Hallam"", ""movie"": ""The Hunted"", ""id"": ""/m/03ls4jv"", ""actor"": ""Benicio del Toro""}"	0
+retired_outlaw	"{""char"": ""William Munny"", ""movie"": ""Unforgiven"", ""id"": ""/m/0k7l31"", ""actor"": ""Clint Eastwood""}"	0
+retired_outlaw	"{""char"": ""Ned Logan"", ""movie"": ""Unforgiven"", ""id"": ""/m/04xg29q"", ""actor"": ""Morgan Freeman""}"	0
+retired_outlaw	"{""char"": ""Butch Cassidy"", ""movie"": ""Butch Cassidy and the Sundance Kid"", ""id"": ""/m/04ky2tz"", ""actor"": ""Paul Newman""}"	0
+retired_outlaw	"{""char"": ""The Sundance Kid"", ""movie"": ""Butch Cassidy and the Sundance Kid"", ""id"": ""/m/0jvzx9"", ""actor"": ""Robert Redford""}"	0
+retired_outlaw	"{""char"": ""Patrick Floyd 'Pat' Garrett"", ""movie"": ""Young Guns II"", ""id"": ""/m/03jsysn"", ""actor"": ""William Petersen""}"	0
+retired_outlaw	"{""char"": ""Roy O'Bannon"", ""movie"": ""Shanghai Noon"", ""id"": ""/m/0k34yw"", ""actor"": ""Owen Wilson""}"	0
+revenge	"{""char"": ""Inigo Montoya"", ""movie"": ""The Princess Bride"", ""id"": ""/m/0k65z5"", ""actor"": ""Mandy Patinkin""}"	0
+revenge	"{""char"": ""Khan Noonien Singh"", ""movie"": ""Star Trek II: The Wrath of Khan"", ""id"": ""/m/02h8fyx"", ""actor"": ""Ricardo Montalb\u00e1n""}"	0
+revenge	"{""char"": ""Col. Douglas Mortimer"", ""movie"": ""For a Few Dollars More"", ""id"": ""/m/0jybsw"", ""actor"": ""Lee Van Cleef""}"	0
+revenge	"{""char"": ""Leonard"", ""movie"": ""Memento"", ""id"": ""/m/0k0l33"", ""actor"": ""Guy Pearce""}"	0
+revenge	"{""char"": ""Harmonica"", ""movie"": ""Once Upon a Time in the West"", ""id"": ""/m/0k1j46"", ""actor"": ""Charles Bronson""}"	0
+revenge	"{""char"": ""Conan the Barbarian"", ""movie"": ""Conan the Destroyer"", ""id"": ""/m/0jwmfk"", ""actor"": ""Arnold Schwarzenegger""}"	0
+romantic_runnerup	"{""char"": ""Lon Hammond Jr."", ""movie"": ""The Notebook"", ""id"": ""/m/04lsjwd"", ""actor"": ""James Marsden""}"	-1
+romantic_runnerup	"{""char"": ""Prince Edward"", ""movie"": ""Enchanted"", ""id"": ""/m/0jxvm9"", ""actor"": ""James Marsden""}"	-1
+romantic_runnerup	"{""char"": ""James Norrington"", ""movie"": ""Pirates of the Caribbean: At World's End"", ""id"": ""/m/0k1xw3"", ""actor"": ""Jack Davenport""}"	-1
+romantic_runnerup	"{""char"": ""Julian Mercer"", ""movie"": ""Something's Gotta Give"", ""id"": ""/m/0k3jn6"", ""actor"": ""Keanu Reeves""}"	-1
+romantic_runnerup	"{""char"": ""Michael Grates"", ""movie"": ""Reality Bites"", ""id"": ""/m/0k2ct2"", ""actor"": ""Ben Stiller""}"	-1
+romantic_runnerup	"{""char"": ""Proteus"", ""movie"": ""Sinbad: Legend of the Seven Seas"", ""id"": ""/m/02vc177"", ""actor"": ""Joseph Fiennes""}"	-1
+self_made_man	"{""char"": ""George Kittredge"", ""movie"": ""The Philadelphia Story"", ""id"": ""/m/0h6f8kc"", ""actor"": ""John Howard""}"	1
+self_made_man	"{""char"": ""Roger Callaway"", ""movie"": ""It Takes Two"", ""id"": ""/m/0j_0s0"", ""actor"": ""Steve Guttenberg""}"	1
+self_made_man	"{""char"": ""Daniel \""Rudy\"" Ruettiger"", ""movie"": ""Rudy"", ""id"": ""/m/02tb8j3"", ""actor"": ""Sean Astin""}"	1
+slacker	"{""char"": ""Brodie Bruce"", ""movie"": ""Mallrats"", ""id"": ""/m/07ldy8x"", ""actor"": ""Jason Lee""}"	-1
+slacker	"{""char"": ""Dale Denton"", ""movie"": ""Pineapple Express"", ""id"": ""/m/02t9zmj"", ""actor"": ""Seth Rogen""}"	-1
+slacker	"{""char"": ""Ben Stone"", ""movie"": ""Knocked Up"", ""id"": ""/m/0j_ks0"", ""actor"": ""Seth Rogen""}"	-1
+slacker	"{""char"": ""Shaun"", ""movie"": ""Shaun of the Dead"", ""id"": ""/m/0k35n0"", ""actor"": ""Simon Pegg""}"	-1
+slacker	"{""char"": ""Kumar Patel"", ""movie"": ""Harold & Kumar Go to White Castle"", ""id"": ""/m/0jz5zx"", ""actor"": ""Kal Penn""}"	-1
+slacker	"{""char"": ""Kumar Patel"", ""movie"": ""Harold & Kumar Escape from Guantanamo Bay"", ""id"": ""/m/02vdfc2"", ""actor"": ""Kal Penn""}"	-1
+slacker	"{""char"": ""Romy White"", ""movie"": ""Romy and Michele's High School Reunion"", ""id"": ""/m/0k2p5c"", ""actor"": ""Mira Sorvino""}"	-1
+slacker	"{""char"": ""Michele Weinberger"", ""movie"": ""Romy and Michele's High School Reunion"", ""id"": ""/m/0k2p5j"", ""actor"": ""Lisa Kudrow""}"	-1
+slacker	"{""char"": ""John Winger"", ""movie"": ""Stripes"", ""id"": ""/m/0k3w4y"", ""actor"": ""Bill Murray""}"	-1
+slacker	"{""char"": ""Dewey Finn"", ""movie"": ""School of Rock"", ""id"": ""/m/0k2zjf"", ""actor"": ""Jack Black""}"	-1
+slacker	"{""char"": ""Aram Finklestein"", ""movie"": ""The Rebound"", ""id"": ""/m/064yxrp"", ""actor"": ""Justin Bartha""}"	-1
+stoner	"{""char"": ""Jay"", ""movie"": ""Dogma"", ""id"": ""/m/0jxdkm"", ""actor"": ""Jason Mewes""}"	-1
+stoner	"{""char"": ""Bill S. Preston, Esq."", ""movie"": ""Bill & Ted's Excellent Adventure"", ""id"": ""/m/0jvcqm"", ""actor"": ""Alex Winter""}"	-1
+stoner	"{""char"": ""Ted \""Theodore\"" Logan"", ""movie"": ""Bill & Ted's Excellent Adventure"", ""id"": ""/m/0jvcqg"", ""actor"": ""Keanu Reeves""}"	-1
+stoner	"{""char"": ""Jeff Spicoli"", ""movie"": ""Fast Times at Ridgemont High"", ""id"": ""/m/0jy30b"", ""actor"": ""Sean Penn""}"	-1
+stoner	"{""char"": ""Luke Shapiro"", ""movie"": ""The Wackness"", ""id"": ""/m/040lm10"", ""actor"": ""Josh Peck""}"	-1
+stoner	"{""char"": ""Kumar Patel"", ""movie"": ""Harold & Kumar Go to White Castle"", ""id"": ""/m/0jz5zx"", ""actor"": ""Kal Penn""}"	-1
+stoner	"{""char"": ""Harold Lee"", ""movie"": ""Harold & Kumar Go to White Castle"", ""id"": ""/m/0jz5zr"", ""actor"": ""John Cho""}"	-1
+stoner	"{""char"": ""Dale Denton"", ""movie"": ""Pineapple Express"", ""id"": ""/m/02t9zmj"", ""actor"": ""Seth Rogen""}"	-1
+stoner	"{""char"": ""Red"", ""movie"": ""Pineapple Express"", ""id"": ""/m/04zk2_k"", ""actor"": ""Danny McBride""}"	-1
+stoner	"{""char"": ""Saul Silver"", ""movie"": ""Pineapple Express"", ""id"": ""/m/02vb3yc"", ""actor"": ""James Franco""}"	-1
+stoner	"{""char"": ""Thadeous"", ""movie"": ""Your Highness"", ""id"": ""/m/07zm_ym"", ""actor"": ""Danny McBride""}"	-1
+stoner	"{""char"": ""Fabious"", ""movie"": ""Your Highness"", ""id"": ""/m/07zm_zv"", ""actor"": ""James Franco""}"	-1
+stoner	"{""char"": ""Marty Mikalski"", ""movie"": ""The Cabin in the Woods"", ""id"": ""/m/083z84s"", ""actor"": ""Fran Kranz""}"	-1
+storyteller	"{""char"": ""Dilios"", ""movie"": ""300"", ""id"": ""/m/0jsg_x"", ""actor"": ""David Wenham""}"	0
+storyteller	"{""char"": ""Ed Bloom - Young"", ""movie"": ""Big Fish"", ""id"": ""/m/0jvbkh"", ""actor"": ""Ewan McGregor""}"	0
+storyteller	"{""char"": ""Garth McCann"", ""movie"": ""Secondhand Lions"", ""id"": ""/m/0k309k"", ""actor"": ""Michael Caine""}"	0
+storyteller	"{""char"": ""Wendy Darling"", ""movie"": ""Peter Pan"", ""id"": ""/m/0k1vn1"", ""actor"": ""Rachel Hurd-Wood""}"	0
+stupid_crooks	"{""char"": ""Sol"", ""movie"": ""Snatch"", ""id"": ""/m/03jtd2p"", ""actor"": ""Lennie James""}"	-1
+stupid_crooks	"{""char"": ""Vinny"", ""movie"": ""Snatch"", ""id"": ""/m/03lsltz"", ""actor"": ""Robbie Gee""}"	-1
+stupid_crooks	"{""char"": ""Tyrone"", ""movie"": ""Snatch"", ""id"": ""/m/09hy0ym"", ""actor"": ""Ade""}"	-1
+stupid_crooks	"{""char"": ""Jerry Lundegaard"", ""movie"": ""Fargo"", ""id"": ""/m/0jy2wd"", ""actor"": ""William H. Macy""}"	-1
+stupid_crooks	"{""char"": ""Vincent Vega"", ""movie"": ""Pulp Fiction"", ""id"": ""/m/01xlj4l"", ""actor"": ""John Travolta""}"	-1
+surfer_dude	"{""char"": ""Ted \""Theodore\"" Logan"", ""movie"": ""Bill & Ted's Excellent Adventure"", ""id"": ""/m/0jvcqg"", ""actor"": ""Keanu Reeves""}"	0
+surfer_dude	"{""char"": ""Bill S. Preston, Esq."", ""movie"": ""Bill & Ted's Excellent Adventure"", ""id"": ""/m/0jvcqm"", ""actor"": ""Alex Winter""}"	0
+surfer_dude	"{""char"": ""Jeff Spicoli"", ""movie"": ""Fast Times at Ridgemont High"", ""id"": ""/m/0jy30b"", ""actor"": ""Sean Penn""}"	0
+surfer_dude	"{""char"": ""Chicken Joe"", ""movie"": ""Surf's Up"", ""id"": ""/m/02_wz7y"", ""actor"": ""Jon Heder""}"	0
+surfer_dude	"{""char"": ""Geek"", ""movie"": ""Surf's Up"", ""id"": ""/m/02_wz9s"", ""actor"": ""Jeff Bridges""}"	0
+surfer_dude	"{""char"": ""Stoney Brown"", ""movie"": ""Encino Man"", ""id"": ""/m/0jxvpr"", ""actor"": ""Pauly Shore""}"	0
+surfer_dude	"{""char"": ""Crawl"", ""movie"": ""Son in Law"", ""id"": ""/m/02tb5qh"", ""actor"": ""Pauly Shore""}"	0
+surfer_dude	"{""char"": ""Bud Macintosh"", ""movie"": ""Bio-Dome"", ""id"": ""/m/02vcwzp"", ""actor"": ""Pauly Shore""}"	0
+surfer_dude	"{""char"": ""Lance B. Johnson"", ""movie"": ""Apocalypse Now"", ""id"": ""/m/02vd4sl"", ""actor"": ""Sam Bottoms""}"	0
+the_chief	"{""char"": ""Dreyfus"", ""movie"": ""The Pink Panther"", ""id"": ""/m/0k63xm"", ""actor"": ""Kevin Kline""}"	1
+the_chief	"{""char"": ""Lt. Andrew Bogomil"", ""movie"": ""Beverly Hills Cop"", ""id"": ""/m/045xnnw"", ""actor"": ""Ronny Cox""}"	1
+the_chief	"{""char"": ""The Chief"", ""movie"": ""Dirty Harry"", ""id"": ""/m/0cg54hp"", ""actor"": ""John Larch""}"	1
+the_editor	"{""char"": ""Ben Bradlee"", ""movie"": ""All the President's Men"", ""id"": ""/m/0jt9_0"", ""actor"": ""Jason Robards""}"	-1
+the_editor	"{""char"": ""Walter Burns"", ""movie"": ""His Girl Friday"", ""id"": ""/m/0jzg14"", ""actor"": ""Cary Grant""}"	-1
+tranquil_fury	"{""char"": ""Eric Draven"", ""movie"": ""The Crow"", ""id"": ""/m/0k4td6"", ""actor"": ""Brandon Lee""}"	0
+tranquil_fury	"{""char"": ""John Preston"", ""movie"": ""Equilibrium"", ""id"": ""/m/0jxwq8"", ""actor"": ""Christian Bale""}"	0
+tranquil_fury	"{""char"": ""Ethan Hunt"", ""movie"": ""Mission: Impossible"", ""id"": ""/m/0k0qpl"", ""actor"": ""Tom Cruise""}"	0
+tranquil_fury	"{""char"": ""Inigo Montoya"", ""movie"": ""The Princess Bride"", ""id"": ""/m/0k65z5"", ""actor"": ""Mandy Patinkin""}"	0
+tranquil_fury	"{""char"": ""David Sumner"", ""movie"": ""Straw Dogs"", ""id"": ""/m/0k3v65"", ""actor"": ""Dustin Hoffman""}"	0
+tranquil_fury	"{""char"": ""Max Cady"", ""movie"": ""Cape Fear"", ""id"": ""/m/0jw22y"", ""actor"": ""Robert De Niro""}"	0
+tranquil_fury	"{""char"": ""Driver"", ""movie"": ""Drive"", ""id"": ""/m/0g4vml8"", ""actor"": ""Ryan Gosling""}"	0
+trickster	"{""char"": ""Han Solo"", ""movie"": ""Star Wars Episode V: The Empire Strikes Back"", ""id"": ""/m/01xpntj"", ""actor"": ""Harrison Ford""}"	1
+trickster	"{""char"": ""Captain Jack Sparrow"", ""movie"": ""Pirates of the Caribbean: Dead Man's Chest"", ""id"": ""/m/0k1xxm"", ""actor"": ""Johnny Depp""}"	1
+trickster	"{""char"": ""Tyler Durden"", ""movie"": ""Fight Club"", ""id"": ""/m/0jy5tj"", ""actor"": ""Brad Pitt""}"	1
+trickster	"{""char"": ""Mr. Nick"", ""movie"": ""The Imaginarium of Dr. Parnassus"", ""id"": ""/m/03kz4l5"", ""actor"": ""Tom Waits""}"	1
+trickster	"{""char"": ""Loki"", ""movie"": ""Thor"", ""id"": ""/m/0855mjk"", ""actor"": ""Tom Hiddleston""}"	1
+valley_girl	"{""char"": ""Julie Richman"", ""movie"": ""Valley Girl"", ""id"": ""/m/03jprhz"", ""actor"": ""Deborah Foreman""}"	-1
+valley_girl	"{""char"": ""Cher Horowitz"", ""movie"": ""Clueless"", ""id"": ""/m/0jwjsy"", ""actor"": ""Alicia Silverstone""}"	-1
+valley_girl	"{""char"": ""Romy White"", ""movie"": ""Romy and Michele's High School Reunion"", ""id"": ""/m/0k2p5c"", ""actor"": ""Mira Sorvino""}"	-1
+valley_girl	"{""char"": ""Buffy Summers"", ""movie"": ""Buffy the Vampire Slayer"", ""id"": ""/m/0jvy0r"", ""actor"": ""Kristy Swanson""}"	-1
+valley_girl	"{""char"": ""Elle Woods"", ""movie"": ""Legally Blonde"", ""id"": ""/m/0j_wm4"", ""actor"": ""Reese Witherspoon""}"	-1
+valley_girl	"{""char"": ""Karen"", ""movie"": ""White Chicks"", ""id"": ""/m/045xr4n"", ""actor"": ""Busy Philipps""}"	-1
+warrior_poet	"{""char"": ""Katsumoto"", ""movie"": ""The Last Samurai"", ""id"": ""/m/0k5n1r"", ""actor"": ""Ken Watanabe""}"	1
+warrior_poet	"{""char"": ""Arthur Burns"", ""movie"": ""The Proposition"", ""id"": ""/m/0k66rt"", ""actor"": ""Danny Huston""}"	1
+warrior_poet	"{""char"": ""Zohan"", ""movie"": ""You Don't Mess with the Zohan"", ""id"": ""/m/03hqx35"", ""actor"": ""Adam Sandler""}"	1
+warrior_poet	"{""char"": ""Broken Sword"", ""movie"": ""Hero"", ""id"": ""/m/0jzcrb"", ""actor"": ""Tony Leung Chiu Wai""}"	1
+warrior_poet	"{""char"": ""Colonel Walter E. Kurtz"", ""movie"": ""Apocalypse Now"", ""id"": ""/m/0jtp23"", ""actor"": ""Marlon Brando""}"	1
+warrior_poet	"{""char"": ""Master Li Mu Bai"", ""movie"": ""Crouching Tiger, Hidden Dragon"", ""id"": ""/m/0jwt__"", ""actor"": ""Chow Yun-Fat""}"	1
+warrior_poet	"{""char"": ""Tool"", ""movie"": ""The Expendables"", ""id"": ""/m/05tb1tv"", ""actor"": ""Mickey Rourke""}"	1
+warrior_poet	"{""char"": ""T. E. Lawrence"", ""movie"": ""Lawrence of Arabia"", ""id"": ""/m/0j_tdt"", ""actor"": ""Peter O'Toole""}"	1
+warrior_poet	"{""char"": ""Horton the Elephant"", ""movie"": ""Horton Hears a Who!"", ""id"": ""/m/05tgl99"", ""actor"": ""Jim Carrey""}"	1
+young_gun	"{""char"": ""Chico"", ""movie"": ""The Magnificent Seven"", ""id"": ""/m/0k5tn5"", ""actor"": ""Horst Buchholz""}"	0
+young_gun	"{""char"": ""Morgan Earp"", ""movie"": ""Tombstone"", ""id"": ""/m/0k776f"", ""actor"": ""Bill Paxton""}"	0
+young_gun	"{""char"": ""Colorado Ryan"", ""movie"": ""Rio Bravo"", ""id"": ""/m/0k2kqg"", ""actor"": ""Ricky Nelson""}"	0
+young_gun	"{""char"": ""Tom Sawyer"", ""movie"": ""The League of Extraordinary Gentlemen"", ""id"": ""/m/0k5nsh"", ""actor"": ""Shane West""}"	0
+young_gun	"{""char"": ""William H. 'Billy the Kid' Bonney"", ""movie"": ""Young Guns II"", ""id"": ""/m/03lrjk0"", ""actor"": ""Emilio Estevez""}"	0
+young_gun	"{""char"": ""Jake"", ""movie"": ""Silverado"", ""id"": ""/m/0k39jj"", ""actor"": ""Kevin Costner""}"	0
