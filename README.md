@@ -12,17 +12,17 @@ List of research questions analysed in this project:
 - 2. Is there a difference of gender gap between genres?
 - 3. What is the gender gap across the world and how did it evolve over time?
 - 4. How will the gender gap evolve in the future and how long will it take for it to be closed?
-- 5. Is there a certain toppic that correlates with one gender?
+- 5. Are there certain topics that correlates with one gender?
 - 6. Is there a correlation with off screen inequality and on screen inequality?
 
 # Proposed additional datasets 
 Additional dataset: 
 
-- 1. title.akas.tsv.gz, from IMDb https://www.imdb.com/interfaces/ that contains movie titles and tconst
-- 2. name.basics.tsv.gz, from IMDb https://www.imdb.com/interfaces/ that contains writers/directors id and their names
-- 3. title.crew.tsv.gz, from IMDb https://www.imdb.com/interfaces/ that contains the director and writer information for all the titles
-- 4. male.txt and female.txt, from https://www.cs.cmu.edu/Groups/AI/areas/nlp/corpora/names/ to identify writers/directors gender from names
-- 5. (Potential) Movie Bechdel Test Scores https://www.kaggle.com/datasets/alisonyao/movie-bechdel-test-scores, that contians IMDb movie id and if a movie pass the Bechdel Test. This dataset can be used as an indicator for the active presence of women in the movie industry. 
+- 1. *title.akas.tsv.gz*, from IMDb https://www.imdb.com/interfaces/ that contains movie titles and tconst
+- 2. *name.basics.tsv.gz*, from IMDb https://www.imdb.com/interfaces/ that contains writers/directors id and their names
+- 3. *title.crew.tsv.gz*, from IMDb https://www.imdb.com/interfaces/ that contains the director and writer information for all the titles
+- 4. *male.txt and female.txt*, from https://www.cs.cmu.edu/Groups/AI/areas/nlp/corpora/names/ to identify writers/directors gender from names
+- 5. *(Potential) Movie Bechdel Test Scores* https://www.kaggle.com/datasets/alisonyao/movie-bechdel-test-scores, that contians IMDb movie id and if a movie pass the Bechdel Test. This dataset can be used as an indicator for the active presence of women in the movie industry. 
 
 # Methods
 
