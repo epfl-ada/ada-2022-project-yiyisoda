@@ -18,24 +18,24 @@ List of research questions analysed in this project:
 # Proposed additional datasets 
 Additional dataset: 
 
-- 1. *title.akas.tsv.gz*, from IMDb https://www.imdb.com/interfaces/ that contains movie titles and tconst
-- 2. *name.basics.tsv.gz*, from IMDb https://www.imdb.com/interfaces/ that contains writers/directors id and their names
-- 3. *title.crew.tsv.gz*, from IMDb https://www.imdb.com/interfaces/ that contains the director and writer information for all the titles
-- 4. *male.txt and female.txt*, from https://www.cs.cmu.edu/Groups/AI/areas/nlp/corpora/names/ to identify writers/directors gender from names
-- 5. *(Potential) Movie Bechdel Test Scores* https://www.kaggle.com/datasets/alisonyao/movie-bechdel-test-scores, that contians IMDb movie id and if a movie pass the Bechdel Test. This dataset can be used as an indicator for the active presence of women in the movie industry. 
+- 1. **title.akas.tsv.gz**, from IMDb https://www.imdb.com/interfaces/ that contains movie titles and tconst
+- 2. **name.basics.tsv.gz**, from IMDb https://www.imdb.com/interfaces/ that contains writers/directors id and their names
+- 3. **title.crew.tsv.gz**, from IMDb https://www.imdb.com/interfaces/ that contains the director and writer information for all the titles
+- 4. **male.txt and female.txt**, from https://www.cs.cmu.edu/Groups/AI/areas/nlp/corpora/names/ to identify writers/directors gender from names
+- 5. **(Potential) Movie Bechdel Test Scores** https://www.kaggle.com/datasets/alisonyao/movie-bechdel-test-scores, that contians IMDb movie id and if a movie pass the Bechdel Test. This dataset can be used as an indicator for the active presence of women in the movie industry. 
 
 # Methods
 
 Q1: Both the on and off screen inequalities have to be taken into account:
 - Ratio male/ female (cast, directors, writers): Gender of cast is given, gender of director & writer has to be concluded from the name. Careful with handling of gender neutral names) 
 - Age distribution male/ female of cast
-- Find stereotypical gender roles based on the movie summary and tvtropes.clusters.txt with sentinel analysis. Find gender by name or pronouns (https://stanfordnlp.github.io/CoreNLP/index.html) 
+- Find stereotypical gender roles based on the movie summary with sentiment analysis by using NLTK. Extract relevant adjective-noun and verb-noun pairs with (https://spacy.io/). Build Word clouds for each gender based on extracted adjectives and verbs.
 
-Q2-Q3: The insight from question 1 has to be analysed with respect to genre, language of movie and release date. 
+Q2-Q3: The insight from question 1 has to be analysed with respect to genre, language and release date. 
 
-Q4: Build a regression based on insights of question 1.
+Q4: Build a regression model based on insights of question 1.
 
-Q5: In order to find recuring toppics for a specific gender topic modeling on genderis done to extract keywords around two genders.
+Q5: In order to find recuring topics for a specific gender，topic modeling on gender is done to extract keywords around two genders.
 
 Q6: create a correlation matrix with gender distribution for writer and director is done with the other features describing the gender gap.
 
@@ -64,7 +64,7 @@ In dept description of how to analyse movie plots for Q1 & Q5:
 # Organization within the team
 
 - Yichen: Handling of CMU datasets, analysis of genres.
-- Yinghui: Analysis of age distribution of cast, gender ratio of crews, common adjective and noun.
+- Yinghui: Analysis of gender ratio of crews, age distribution of cast,sentiment adjectives, WordCloud.
 - Sophia: Handling of CMU datasets, analysis of countries/languages.
 - David: Handling of IMDb datasets, extract words around pronouns.
 
