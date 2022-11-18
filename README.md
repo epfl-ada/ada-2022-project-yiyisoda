@@ -2,9 +2,7 @@
 
 # Abstract 
 
-The film industry is huge nowadays and as something that reaches so many people in the world it is bound to influence our culture. On the other hand, successful movies must appease to its viewers, therefore representing a part of society. Therefore, movies take an important place in our lives. With the subject of gender gap being hotter than ever, the question of how the female representation in this industry is arises. 
-
-With this project the inequalities between men and women on and off screen is analysed. The motivation behind it is to properly understand and grasp the problem so that it can be solved at the right place in the future. The differences across the world, between genres and over time should be shown for that. 
+The film industry is huge and as something that reaches so many people in the world, it is bound to influence our culture. Successful movies appease their viewers, mirroring a part of society. Therefore, movies take an important place in our lives. With the subject of the gender gap being hotter than ever, the question of how female representation in this industry arises.  We aim to analyze the inequalities between men and women on and off-screen in this project with the data from the CMU movies summary dataset. Our goal is to compare data from different genres, geographical areas, and periods and visualize any evolution. The motivation behind it is to understand and grasp the problem so that this industry can solve inequality in the future. 
 
 
 # Research Questions 
