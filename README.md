@@ -2,9 +2,7 @@
 
 # Abstract 
 
-The film industry is huge nowadays and as something that reaches so many people in the world it is bound to influence our culture. On the other hand, successful movies must appease to its viewers, therefore representing a part of society. Therefore, movies take an important place in our lives. With the subject of gender gap being hotter than ever, the question of how the female representation in this industry is arises. 
-
-With this project the inequalities between men and women on and off screen is analysed. The motivation behind it is to properly understand and grasp the problem so that it can be solved at the right place in the future. The differences across the world, between genres and over time should be shown for that. 
+The film industry is huge and as something that reaches so many people in the world, it is bound to influence our culture. Successful movies appease their viewers, mirroring a part of society. Therefore, movies take an important place in our lives. With the subject of the gender gap being hotter than ever, the question of how female representation in this industry arises.  We aim to analyze the inequalities between men and women on and off-screen in this project with the data from the CMU movies summary dataset. Our goal is to compare data from different genres, geographical areas, and periods and visualize any evolution. The motivation behind it is to understand and grasp the problem so that this industry can solve inequality in the future. 
 
 
 # Research Questions 
@@ -17,10 +15,14 @@ List of research questions analysed in this project:
 - 5. Is there a certain toppic that correlates with one gender?
 - 6. Is there a correlation with off screen inequality and on screen inequality?
 
-# Proposed additional datasets (if any)
+# Proposed additional datasets 
 Additional dataset: 
--1. title.crew.tsv.gz: Contains the director and writer information for all the titles in IMDb. Enrich it with information about their gender by ...
 
+- 1. title.akas.tsv.gz, from IMDb https://www.imdb.com/interfaces/ that contains movie titles and tconst
+- 2. name.basics.tsv.gz, from IMDb https://www.imdb.com/interfaces/ that contains writers/directors id and their names
+- 3. title.crew.tsv.gz, from IMDb https://www.imdb.com/interfaces/ that contains the director and writer information for all the titles
+- 4. male.txt and female.txt, from https://www.cs.cmu.edu/Groups/AI/areas/nlp/corpora/names/ to identify writers/directors gender from names
+- 5. (Potential) Movie Bechdel Test Scores https://www.kaggle.com/datasets/alisonyao/movie-bechdel-test-scores, that contians IMDb movie id and if a movie pass the Bechdel Test. This dataset can be used as an indicator for the active presence of women in the movie industry. 
 
 # Methods
 
@@ -28,7 +30,6 @@ Q1: Both the on and off screen inequalities have to be taken into account:
 - Ratio male/ female (cast, directors, writers): Gender of cast is given, gender of director & writer has to be concluded from the name. Careful with handling of gender neutral names) 
 - Age distribution male/ female of cast
 - Find stereotypical gender roles based on the movie summary and tvtropes.clusters.txt with sentinel analysis. Find gender by name or pronouns (https://stanfordnlp.github.io/CoreNLP/index.html) 
-- Usage of Bechtel-test data: https://www.kaggle.com/datasets/alisonyao/movie-bechdel-test-scores
 
 Q2-Q3: The insight from question 1 has to be analysed with respect to genre, language of movie and release date. 
 
@@ -50,12 +51,21 @@ In dept description of how to analyse movie plots for Q1 & Q5:
 
 # Proposed timeline
 
-- 21.11.: Take Milestone 2 feedback into account, make necessary changes. 
-- 27.11.: Compute statistics until question 4 (Besides gender representation based on characters on screen)
-- 11.12.: Do plot summary analysis for question 5 and character representation
-- 15.12.: Compute all necessary statistics
-- 20.12.: Create story with figures and text, finilize git repository
+- 25.11: 
+  Take Milestone 2 feedback into account, make necessary changes. 
+  Validate statistics until Q4 (Besides gender representation based on characters on screen)
+- 2.12: 
+  Do plot summary analysis for Q5 and character representation
+- 9.12:
+  Combine previous analysis for Q6
+- 16.12: 
+  Create story with figures and text, finilize git repository
 
 # Organization within the team
+
+- Yichen: Handling of CMU datasets, analysis of genres.
+- Yinghui: Analysis of age distribution of cast, gender ratio of crews, common adjective and noun.
+- Sophia: Handling of CMU datasets, analysis of countries/languages.
+- David: Handling of IMDb datasets, extract words around pronouns.
 
 by YiYiSoDa
