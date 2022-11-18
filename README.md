@@ -53,12 +53,21 @@ In dept description of how to analyse movie plots for Q1 & Q5:
 
 # Proposed timeline
 
-- 21.11.: Take Milestone 2 feedback into account, make necessary changes. 
-- 27.11.: Compute statistics until question 4 (Besides gender representation based on characters on screen)
-- 11.12.: Do plot summary analysis for question 5 and character representation
-- 15.12.: Compute all necessary statistics
-- 20.12.: Create story with figures and text, finilize git repository
+- 25.11: 
+  Take Milestone 2 feedback into account, make necessary changes. 
+  Validate statistics until Q4 (Besides gender representation based on characters on screen)
+- 2.12: 
+  Do plot summary analysis for Q5 and character representation
+- 9.12:
+  Combine previous analysis for Q6
+- 16.12: 
+  Create story with figures and text, finilize git repository
 
 # Organization within the team
+
+- Yichen: Handling of CMU datasets, analysis of genres.
+- Yinghui: Analysis of age distribution of cast, gender ratio of crews, common adjective and noun.
+- Sophia: Handling of CMU datasets, analysis of countries/languages.
+- David: Handling of IMDb datasets, extract words around pronouns.
 
 by YiYiSoDa
