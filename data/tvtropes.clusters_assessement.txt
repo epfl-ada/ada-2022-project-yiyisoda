@@ -105,29 +105,29 @@ consummate_professional	"{""char"": ""Frank Martin"", ""movie"": ""The Transport
 consummate_professional	"{""char"": ""Agent Smith"", ""movie"": ""The Matrix"", ""id"": ""/m/0k5wz1"", ""actor"": ""Hugo Weaving""}"	1
 consummate_professional	"{""char"": ""The Professor"", ""movie"": ""The Bourne Identity"", ""id"": ""/m/0k4kdl"", ""actor"": ""Clive Owen""}"	1
 consummate_professional	"{""char"": ""Sam 'Ace' Rothstein"", ""movie"": ""Casino"", ""id"": ""/m/0jw4vx"", ""actor"": ""Robert De Niro""}"	1
-corrupt_corporate_executive	"{""char"": ""Dick Jones"", ""movie"": ""RoboCop"", ""id"": ""/m/0k2m8v"", ""actor"": ""Ronny Cox""}"	-1
-corrupt_corporate_executive	"{""char"": ""Cutler Beckett"", ""movie"": ""Pirates of the Caribbean: Dead Man's Chest"", ""id"": ""/m/0k1xyw"", ""actor"": ""Tom Hollander""}"	-1
-corrupt_corporate_executive	"{""char"": ""Cutler Beckett"", ""movie"": ""Pirates of the Caribbean: At World's End"", ""id"": ""/m/0k1xwx"", ""actor"": ""Tom Hollander""}"	-1
-corrupt_corporate_executive	"{""char"": ""Max Zorin"", ""movie"": ""A View to a Kill"", ""id"": ""/m/02xl2ny"", ""actor"": ""Christopher Walken""}"	-1
-corrupt_corporate_executive	"{""char"": ""Carter Burke"", ""movie"": ""Aliens"", ""id"": ""/m/0jt8n6"", ""actor"": ""Paul Reiser""}"	-1
-corrupt_corporate_executive	"{""char"": ""Noah Cross"", ""movie"": ""Chinatown"", ""id"": ""/m/0jwcjw"", ""actor"": ""John Huston""}"	-1
-corrupt_corporate_executive	"{""char"": ""Doctor Doom"", ""movie"": ""Fantastic Four"", ""id"": ""/m/0jy24c"", ""actor"": ""Julian McMahon""}"	-1
-corrupt_corporate_executive	"{""char"": ""Kingpin"", ""movie"": ""Daredevil"", ""id"": ""/m/0jwz5q"", ""actor"": ""Michael Clarke Duncan""}"	-1
-corrupt_corporate_executive	"{""char"": ""Judge Doom"", ""movie"": ""Who Framed Roger Rabbit"", ""id"": ""/m/0k81j_"", ""actor"": ""Christopher Lloyd""}"	-1
-corrupt_corporate_executive	"{""char"": ""Conal Cochran"", ""movie"": ""Halloween III: Season of the Witch"", ""id"": ""/m/0jz33w"", ""actor"": ""Dan O'Herlihy""}"	-1
-corrupt_corporate_executive	"{""char"": ""Mayor Augustus Maywho"", ""movie"": ""How the Grinch Stole Christmas!"", ""id"": ""/m/0jzmfp"", ""actor"": ""Jeffrey Tambor""}"	-1
-corrupt_corporate_executive	"{""char"": ""Henry F. Potter"", ""movie"": ""It's a Wonderful Life"", ""id"": ""/m/0j_11c"", ""actor"": ""Lionel Barrymore""}"	-1
-corrupt_corporate_executive	"{""char"": ""Royalton"", ""movie"": ""Speed Racer"", ""id"": ""/m/03jqz37"", ""actor"": ""Roger Allam""}"	-1
-corrupt_corporate_executive	"{""char"": ""B.Z."", ""movie"": ""Santa Claus: The Movie"", ""id"": ""/m/0k2w67"", ""actor"": ""John Lithgow""}"	-1
-corrupt_corporate_executive	"{""char"": ""Les Grossman"", ""movie"": ""Tropic Thunder"", ""id"": ""/m/0gyjwgg"", ""actor"": ""Tom Cruise""}"	-1
-corrupt_corporate_executive	"{""char"": ""James McCullen - 1641"", ""movie"": ""G.I. Joe: The Rise of Cobra"", ""id"": ""/m/0h5q191"", ""actor"": ""David Murray""}"	-1
-corrupt_corporate_executive	"{""char"": ""Ed Dillinger"", ""movie"": ""Tron"", ""id"": ""/m/0k7cbx"", ""actor"": ""David Warner""}"	-1
-corrupt_corporate_executive	"{""char"": ""Ian Hawke"", ""movie"": ""Alvin and the Chipmunks"", ""id"": ""/m/03kyztz"", ""actor"": ""David Cross""}"	-1
-corrupt_corporate_executive	"{""char"": ""Jack Bennett"", ""movie"": ""Edge of Darkness"", ""id"": ""/m/08cwjsb"", ""actor"": ""Danny Huston""}"	-1
-corrupt_corporate_executive	"{""char"": ""Charles Travis"", ""movie"": ""Congo"", ""id"": ""/m/02vclwl"", ""actor"": ""Bruce Campbell""}"	-1
-corrupt_corporate_executive	"{""char"": ""Gary Winston"", ""movie"": ""Antitrust"", ""id"": ""/m/02vbk_v"", ""actor"": ""Tim Robbins""}"	-1
-corrupt_corporate_executive	"{""char"": ""Dietrich Banning"", ""movie"": ""The Tuxedo"", ""id"": ""/m/0cgn58l"", ""actor"": ""Ritchie Coster""}"	-1
-corrupt_corporate_executive	"{""char"": ""Ratchet"", ""movie"": ""Robots"", ""id"": ""/m/0k2mmy"", ""actor"": ""Greg Kinnear""}"	-1
+corrupt_corporate_executive	"{""char"": ""Dick Jones"", ""movie"": ""RoboCop"", ""id"": ""/m/0k2m8v"", ""actor"": ""Ronny Cox""}"	0
+corrupt_corporate_executive	"{""char"": ""Cutler Beckett"", ""movie"": ""Pirates of the Caribbean: Dead Man's Chest"", ""id"": ""/m/0k1xyw"", ""actor"": ""Tom Hollander""}"	0
+corrupt_corporate_executive	"{""char"": ""Cutler Beckett"", ""movie"": ""Pirates of the Caribbean: At World's End"", ""id"": ""/m/0k1xwx"", ""actor"": ""Tom Hollander""}"	0
+corrupt_corporate_executive	"{""char"": ""Max Zorin"", ""movie"": ""A View to a Kill"", ""id"": ""/m/02xl2ny"", ""actor"": ""Christopher Walken""}"	0
+corrupt_corporate_executive	"{""char"": ""Carter Burke"", ""movie"": ""Aliens"", ""id"": ""/m/0jt8n6"", ""actor"": ""Paul Reiser""}"	0
+corrupt_corporate_executive	"{""char"": ""Noah Cross"", ""movie"": ""Chinatown"", ""id"": ""/m/0jwcjw"", ""actor"": ""John Huston""}"	0
+corrupt_corporate_executive	"{""char"": ""Doctor Doom"", ""movie"": ""Fantastic Four"", ""id"": ""/m/0jy24c"", ""actor"": ""Julian McMahon""}"	0
+corrupt_corporate_executive	"{""char"": ""Kingpin"", ""movie"": ""Daredevil"", ""id"": ""/m/0jwz5q"", ""actor"": ""Michael Clarke Duncan""}"	0
+corrupt_corporate_executive	"{""char"": ""Judge Doom"", ""movie"": ""Who Framed Roger Rabbit"", ""id"": ""/m/0k81j_"", ""actor"": ""Christopher Lloyd""}"	0
+corrupt_corporate_executive	"{""char"": ""Conal Cochran"", ""movie"": ""Halloween III: Season of the Witch"", ""id"": ""/m/0jz33w"", ""actor"": ""Dan O'Herlihy""}"	0
+corrupt_corporate_executive	"{""char"": ""Mayor Augustus Maywho"", ""movie"": ""How the Grinch Stole Christmas!"", ""id"": ""/m/0jzmfp"", ""actor"": ""Jeffrey Tambor""}"	0
+corrupt_corporate_executive	"{""char"": ""Henry F. Potter"", ""movie"": ""It's a Wonderful Life"", ""id"": ""/m/0j_11c"", ""actor"": ""Lionel Barrymore""}"	0
+corrupt_corporate_executive	"{""char"": ""Royalton"", ""movie"": ""Speed Racer"", ""id"": ""/m/03jqz37"", ""actor"": ""Roger Allam""}"	0
+corrupt_corporate_executive	"{""char"": ""B.Z."", ""movie"": ""Santa Claus: The Movie"", ""id"": ""/m/0k2w67"", ""actor"": ""John Lithgow""}"	0
+corrupt_corporate_executive	"{""char"": ""Les Grossman"", ""movie"": ""Tropic Thunder"", ""id"": ""/m/0gyjwgg"", ""actor"": ""Tom Cruise""}"	0
+corrupt_corporate_executive	"{""char"": ""James McCullen - 1641"", ""movie"": ""G.I. Joe: The Rise of Cobra"", ""id"": ""/m/0h5q191"", ""actor"": ""David Murray""}"	0
+corrupt_corporate_executive	"{""char"": ""Ed Dillinger"", ""movie"": ""Tron"", ""id"": ""/m/0k7cbx"", ""actor"": ""David Warner""}"	0
+corrupt_corporate_executive	"{""char"": ""Ian Hawke"", ""movie"": ""Alvin and the Chipmunks"", ""id"": ""/m/03kyztz"", ""actor"": ""David Cross""}"	0
+corrupt_corporate_executive	"{""char"": ""Jack Bennett"", ""movie"": ""Edge of Darkness"", ""id"": ""/m/08cwjsb"", ""actor"": ""Danny Huston""}"	0
+corrupt_corporate_executive	"{""char"": ""Charles Travis"", ""movie"": ""Congo"", ""id"": ""/m/02vclwl"", ""actor"": ""Bruce Campbell""}"	0
+corrupt_corporate_executive	"{""char"": ""Gary Winston"", ""movie"": ""Antitrust"", ""id"": ""/m/02vbk_v"", ""actor"": ""Tim Robbins""}"	0
+corrupt_corporate_executive	"{""char"": ""Dietrich Banning"", ""movie"": ""The Tuxedo"", ""id"": ""/m/0cgn58l"", ""actor"": ""Ritchie Coster""}"	0
+corrupt_corporate_executive	"{""char"": ""Ratchet"", ""movie"": ""Robots"", ""id"": ""/m/0k2mmy"", ""actor"": ""Greg Kinnear""}"	0
 coward	"{""char"": ""Beni Gabor"", ""movie"": ""The Mummy"", ""id"": ""/m/03jskk3"", ""actor"": ""Kevin J. O'Connor""}"	-1
 coward	"{""char"": ""Lt. Roget / Singing man"", ""movie"": ""Paths of Glory"", ""id"": ""/m/0cc_884"", ""actor"": ""Wayne Morris""}"	-1
 coward	"{""char"": ""Captain Jack Sparrow"", ""movie"": ""Pirates of the Caribbean: Dead Man's Chest"", ""id"": ""/m/0k1xxm"", ""actor"": ""Johnny Depp""}"	-1
