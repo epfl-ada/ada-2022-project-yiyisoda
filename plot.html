@@ -2,7 +2,7 @@
 
 <div id="gallery_distribution_cast">
     <select id="image-selector_distribution_cast">
-        <option value="pictures/1908_2012.png">Period:1908-2012</option>
+        <option value="pictures/1908_2012.png">Average of total dataset</option>
         <option value="pictures/1908_1935.png">Period: 1908-1935</option>
         <option value="pictures/1935_1945.png">Period:1935_1945</option>
         <option value="pictures/1945_1990.png">Period:1945-1990</option>
@@ -49,7 +49,7 @@
 
 <div id="gallery_age">
     <select id="image-selector_age">
-        <option value="pictures/1908_2016_age.png">Period: 1908-2016</option>
+        <option value="pictures/1908_2016_age.png">Average of total dataset</option>
         <option value="pictures/1908_1935_age.png">Period: 1908-1935</option>
         <option value="pictures/1935_1945_age.png">Period: 1935-1945</option>
         <option value="pictures/1945_1990_age.png">Period: 1945-1990</option>
@@ -143,10 +143,10 @@
 
 <div id="gallery_topgenre">
     <select id="image-selector_topgenre">
-        <option value="pictures/1888-2016_genretop.png">Period: 1888-2016</option>
+        <option value="pictures/1888-2016_genretop.png">Average of total dataset</option>
         <option value="pictures/1888-1935_genretop.png">Period: 1888-1935</option>
         <option value="pictures/1935-1945_genretop.png">Period: 1935-1945</option>
-        <option value="pictures/1945-1900_genretop.png">Period: 1945-1900</option>
+        <option value="pictures/1945-1990_genretop.png">Period: 1945-1990</option>
         <option value="pictures/1990-2016_genretop.png">Period: 1990-2016</option>
     </select>
     <img id="image_topgenre" src="pictures/1888-2016_genretop.png"
@@ -191,13 +191,13 @@
 
 <div id="gallery_topgenref">
     <select id="image-selector_topgenref">
-        <option value="pictures/1888-2016_genrefemale.png">Period: 1888-2016</option>
+        <option value="pictures/1888-2016_genrefemale.png">Average of total dataset</option>
         <option value="pictures/1888-1935_genrefemale.png">Period: 1888-1935</option>
         <option value="pictures/1935-1945_genrefemale.png">Period: 1935-1945</option>
-        <option value="pictures/1945-1900_genrefemale.png">Period: 1945-1900</option>
+        <option value="pictures/1945-1990_genrefemale.png">Period: 1945-1990</option>
         <option value="pictures/1990-2016_genrefemale.png">Period: 1990-2016</option>
     </select>
-    <img id="image_topgenref" src="pictures/1888-2016_genrefemale.png" alt="Period: 1888-2016">
+    <img id="image_topgenref" src="pictures/1888-2016_genrefemale.png" alt="Average of total dataset">
 </div>
 
 <!-- JavaScript code -->
@@ -224,6 +224,238 @@
     }
 
     #gallery_topgenref img {
+        width: flex;
+        height: 400px;
+        object-fit: cover;
+        display: block;
+        margin: 0 auto;
+        position: relative;
+    }
+</style>
+
+<!-- Top male genre distribution ------------------------------------------------------------------------- -->
+
+<div id="gallery_topgenrem">
+    <select id="image-selector_topgenrem">
+        <option value="pictures/1888-2016_genremale.png">Average of total dataset</option>
+        <option value="pictures/1888-1935_genremale.png">Period: 1888-1935</option>
+        <option value="pictures/1935-1945_genremale.png">Period: 1935-1945</option>
+        <option value="pictures/1945-1990_genremale.png">Period: 1945-1990</option>
+        <option value="pictures/1990-2016_genremale.png">Period: 1990-2016</option>
+    </select>
+    <img id="image_topgenrem" src="pictures/1888-2016_genremale.png" alt="Average of total dataset">
+</div>
+
+<!-- JavaScript code -->
+<script>
+    const image_Selector_topgenrem = document.getElementById("image-selector_topgenrem");
+    const image_topgenrem = document.getElementById("image_topgenrem");
+
+    // Add a change event listener to the select element
+    image_Selector_topgenrem.addEventListener("change", function () {
+        // Set the src attribute of the image to the selected value
+        image_topgenrem.src = this.value;
+    });
+</script>
+
+<style>
+    #gallery_topgenrem {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    #image-selector-container {
+        margin-bottom: 50px;
+    }
+
+    #gallery_topgenrem img {
+        width: flex;
+        height: 400px;
+        object-fit: cover;
+        display: block;
+        margin: 0 auto;
+        position: relative;
+    }
+</style>
+
+<!-- Top male director genre distribution ------------------------------------------------------------------------- -->
+
+<div id="gallery_topgdirectorm">
+    <select id="image-selector_topdirectorm">
+        <option value="pictures/1908-2013_directormale.png">Average of total dataset</option>
+        <option value="pictures/1908-1935_directormale.png">Period: 1908-1935</option>
+        <option value="pictures/1935-1945_directormale.png">Period: 1935-1945</option>
+        <option value="pictures/1945-1990_directormale.png">Period: 1945-1990</option>
+        <option value="pictures/1990-2013_directormale.png">Period: 1990-2013</option>
+    </select>
+    <img id="image_topdirectorm" src="pictures/1908-2013_directormale.png" alt="Average of total dataset">
+</div>
+
+<!-- JavaScript code -->
+<script>
+    const image_Selector_topdirectorm = document.getElementById("image-selector_topdirectorm");
+    const image_topdirectorm = document.getElementById("image_topdirectorm");
+
+    // Add a change event listener to the select element
+    image_Selector_topdirectorm.addEventListener("change", function () {
+        // Set the src attribute of the image to the selected value
+        image_topdirectorm.src = this.value;
+    });
+</script>
+
+<style>
+    #gallery_topgdirectorm {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    #image-selector-container {
+        margin-bottom: 50px;
+    }
+
+    #gallery_topgdirectorm img {
+        width: flex;
+        height: 400px;
+        object-fit: cover;
+        display: block;
+        margin: 0 auto;
+        position: relative;
+    }
+</style>
+
+
+<!-- Top female director genre distribution ------------------------------------------------------------------------- -->
+
+<div id="gallery_topgdirectorf">
+    <select id="image-selector_topdirectorf">
+        <option value="pictures/1908-2013_directorfemale.png">Average of total dataset</option>
+        <option value="pictures/1908-1935_directorfemale.png">Period: 1908-1935</option>
+        <option value="pictures/1935-1945_directorfemale.png">Period: 1935-1945</option>
+        <option value="pictures/1945-1990_directorfemale.png">Period: 1945-1990</option>
+        <option value="pictures/1990-2013_directorfemale.png">Period: 1990-2013</option>
+    </select>
+    <img id="image_topdirectorf" src="pictures/1908-2013_directorfemale.png" alt="Average of total dataset">
+</div>
+
+<!-- JavaScript code -->
+<script>
+    const image_Selector_topdirectorf = document.getElementById("image-selector_topdirectorf");
+    const image_topdirectorf = document.getElementById("image_topdirectorf");
+
+    // Add a change event listener to the select element
+    image_Selector_topdirectorf.addEventListener("change", function () {
+        // Set the src attribute of the image to the selected value
+        image_topdirectorf.src = this.value;
+    });
+</script>
+
+<style>
+    #gallery_topgdirectorf {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    #image-selector-container {
+        margin-bottom: 50px;
+    }
+
+    #gallery_topgdirectorf img {
+        width: flex;
+        height: 400px;
+        object-fit: cover;
+        display: block;
+        margin: 0 auto;
+        position: relative;
+    }
+</style>
+
+<!-- Top male writer genre distribution ------------------------------------------------------------------------- -->
+
+<div id="gallery_topgwriterm">
+    <select id="image-selector_topwriterm">
+        <option value="pictures/1908-2013_writermale.png">Average of total dataset</option>
+        <option value="pictures/1908-1935_writermale.png">Period: 1908-1935</option>
+        <option value="pictures/1935-1945_writermale.png">Period: 1935-1945</option>
+        <option value="pictures/1945-1990_writermale.png">Period: 1945-1990</option>
+        <option value="pictures/1990-2013_writermale.png">Period: 1990-2013</option>
+    </select>
+    <img id="image_topwriterm" src="pictures/1908-2013_writermale.png" alt="Average of total dataset">
+</div>
+
+<!-- JavaScript code -->
+<script>
+    const image_selector_topwriterm = document.getElementById("image-selector_topwriterm");
+    const image_topwriterm = document.getElementById("image_topwriterm");
+
+    // Add a change event listener to the select element
+    image_selector_topwriterm.addEventListener("change", function () {
+        // Set the src attribute of the image to the selected value
+        image_topwriterm.src = this.value;
+    });
+</script>
+
+<style>
+    #gallery_topgwriterm {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    #image-selector-container {
+        margin-bottom: 50px;
+    }
+
+    #gallery_topgwriterm img {
+        width: flex;
+        height: 400px;
+        object-fit: cover;
+        display: block;
+        margin: 0 auto;
+        position: relative;
+    }
+</style>
+
+
+<!-- Top female writer genre distribution ------------------------------------------------------------------------- -->
+
+<div id="gallery_topgwriterf">
+    <select id="image-selector_topwriterf">
+        <option value="pictures/1908-2013_writerfemale.png">Average of total dataset</option>
+        <option value="pictures/1908-1935_writerfemale.png">Period: 1908-1935</option>
+        <option value="pictures/1935-1945_writerfemale.png">Period: 1935-1945</option>
+        <option value="pictures/1945-1990_writerfemale.png">Period: 1945-1990</option>
+        <option value="pictures/1990-2013_writefermale.png">Period: 1990-2013</option>
+    </select>
+    <img id="image_topwriterf" src="pictures/1908-2013_writerfemale.png" alt="Average of total dataset">
+</div>
+
+<!-- JavaScript code -->
+<script>
+    const image_selector_topwriterf = document.getElementById("image-selector_topwriterf");
+    const image_topwriterf = document.getElementById("image_topwriterf");
+
+    // Add a change event listener to the select element
+    image_selector_topwriterf.addEventListener("change", function () {
+        // Set the src attribute of the image to the selected value
+        image_topwriterf.src = this.value;
+    });
+</script>
+
+<style>
+    #gallery_topgwriterf {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    #image-selector-container {
+        margin-bottom: 50px;
+    }
+
+    #gallery_topgwriterf img {
         width: flex;
         height: 400px;
         object-fit: cover;
