@@ -45,32 +45,34 @@
     }
 </style>
 
+<!-- Age distribution ------------------------------------------------------------------------- -->
 
-<!-- Director- writer percentage ------------------------------------------------------------------------- -->
-
-<div id="gallery">
-    <select id="image-selector">
-        <option value="pictures/Comparison with worldwide female employment rate.png">Comparison with worldwide female employment rate</option>
-        <option value="pictures/Female director projection.png">Female director projection</option>
-        <option value="pictures/Female writer projection.png">Female writer projection</option>
+<div id="gallery_age">
+    <select id="image-selector_age">
+        <option value="pictures/1908_2016_age.png">Period: 1908-2016</option>
+        <option value="pictures/1908_1935_age.png">Period: 1908-1935</option>
+        <option value="pictures/1935_1945_age.png">Period: 1935-1945</option>
+        <option value="pictures/1945_1990_age.png">Period: 1945-1990</option>
+        <option value="pictures/1990_2016_age.png">Period: 1990-2016</option>
     </select>
-    <img id="image" src="pictures/Comparison with worldwide female employment rate.png" alt="Comparison with worldwide female employment rate">
+    <img id="image_age" src="pictures/1908_2016_age.png"
+        alt="Period: 1908-2016">
 </div>
 
 <!-- JavaScript code -->
 <script>
-    const imageSelector = document.getElementById("image-selector");
-    const image = document.getElementById("image");
+    const image_selector_age = document.getElementById("image-selector_age");
+    const image_age = document.getElementById("image_age");
 
     // Add a change event listener to the select element
-    imageSelector.addEventListener("change", function () {
+    image_selector_age.addEventListener("change", function () {
         // Set the src attribute of the image to the selected value
-        image.src = this.value;
+        image_age.src = this.value;
     });
 </script>
 
 <style>
-    #gallery {
+    #gallery_age {
         display: flex;
         flex-direction: column;
         align-items: center;
@@ -80,7 +82,53 @@
         margin-bottom: 50px;
     }
 
-    #gallery img {
+    #gallery_age img {
+        width: flex;
+        height: 400px;
+        object-fit: cover;
+        display: block;
+        margin: 0 auto;
+        position: relative;
+    }
+</style>
+
+
+
+<!-- Director- writer percentage ------------------------------------------------------------------------- -->
+
+<div id="gallery_director">
+    <select id="image-selector_director">
+        <option value="pictures/Comparison with worldwide female employment rate.png">Comparison with worldwide female employment rate</option>
+        <option value="pictures/Female director projection.png">Female director projection</option>
+        <option value="pictures/Female writer projection.png">Female writer projection</option>
+    </select>
+    <img id="image2" src="pictures/Comparison with worldwide female employment rate.png" alt="Comparison with worldwide female employment rate">
+</div>
+
+<!-- JavaScript code -->
+<script>
+    const imageSelector_director = document.getElementById("image-selector_director");
+    const image_director = document.getElementById("image2");
+
+    // Add a change event listener to the select element
+    imageSelector_director.addEventListener("change", function () {
+        // Set the src attribute of the image to the selected value
+        image_director.src = this.value;
+    });
+</script>
+
+<style>
+    #gallery_director {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    #image-selector-container {
+        margin-bottom: 50px;
+    }
+
+    #gallery_director img {
         width: flex;
         height: 400px;
         object-fit: cover;
@@ -91,5 +139,96 @@
    
 </style>
 
+<!-- Top genre distribution ------------------------------------------------------------------------- -->
+
+<div id="gallery_topgenre">
+    <select id="image-selector_topgenre">
+        <option value="pictures/1888-2016_genretop.png">Period: 1888-2016</option>
+        <option value="pictures/1888-1935_genretop.png">Period: 1888-1935</option>
+        <option value="pictures/1935-1945_genretop.png">Period: 1935-1945</option>
+        <option value="pictures/1945-1900_genretop.png">Period: 1945-1900</option>
+        <option value="pictures/1990-2016_genretop.png">Period: 1990-2016</option>
+    </select>
+    <img id="image_topgenre" src="pictures/1888-2016_genretop.png"
+        alt="Period: 1888-2016">
+</div>
+
+<!-- JavaScript code -->
+<script>
+    const image_Selector_topgenre = document.getElementById("image-selector_topgenre");
+    const image_topgenre = document.getElementById("image_topgenre");
+
+    // Add a change event listener to the select element
+    image_Selector_topgenre.addEventListener("change", function () {
+        // Set the src attribute of the image to the selected value
+        image_topgenre.src = this.value;
+    });
+</script>
+
+<style>
+    #gallery_topgenre {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    #image-selector-container {
+        margin-bottom: 50px;
+    }
+
+    #gallery_topgenre img {
+        width: flex;
+        height: 400px;
+        object-fit: cover;
+        display: block;
+        margin: 0 auto;
+        position: relative;
+    }
+</style>
 
 
+<!-- Top female genre distribution ------------------------------------------------------------------------- -->
+
+<div id="gallery_topgenref">
+    <select id="image-selector_topgenref">
+        <option value="pictures/1888-2016_genrefemale.png">Period: 1888-2016</option>
+        <option value="pictures/1888-1935_genrefemale.png">Period: 1888-1935</option>
+        <option value="pictures/1935-1945_genrefemale.png">Period: 1935-1945</option>
+        <option value="pictures/1945-1900_genrefemale.png">Period: 1945-1900</option>
+        <option value="pictures/1990-2016_genrefemale.png">Period: 1990-2016</option>
+    </select>
+    <img id="image_topgenref" src="pictures/1888-2016_genrefemale.png" alt="Period: 1888-2016">
+</div>
+
+<!-- JavaScript code -->
+<script>
+    const image_Selector_topgenref = document.getElementById("image-selector_topgenref");
+    const image_topgenref = document.getElementById("image_topgenref");
+
+    // Add a change event listener to the select element
+    image_Selector_topgenref.addEventListener("change", function () {
+        // Set the src attribute of the image to the selected value
+        image_topgenref.src = this.value;
+    });
+</script>
+
+<style>
+    #gallery_topgenref {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    #image-selector-container {
+        margin-bottom: 50px;
+    }
+
+    #gallery_topgenref img {
+        width: flex;
+        height: 400px;
+        object-fit: cover;
+        display: block;
+        margin: 0 auto;
+        position: relative;
+    }
+</style>
