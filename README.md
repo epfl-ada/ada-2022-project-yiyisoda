@@ -68,11 +68,11 @@ In dept description of how to analyse movie plots for Q1 & Q5:
 
 # Organization within the team
 
-All members works on datastory writing.
+All members worked on datastory writing.
 
 - Yichen: Handling of CMU datasets, analysis of genres, Bechdel test result comparison. 
 - Yinghui: Analysis of gender ratio of crews, age distribution of cast,sentiment adjectives, WordCloud, datastory website.
-- Sophia: Handling of CMU datasets, analysis of countries/languages.
+- Sophia: Handling of CMU datasets, analysis of gender distribution of cast, director, writer for countries and genre
 - David: Handling of IMDb datasets, extract words around pronouns, topic modelling and sentiment analysis on sentences.
 
 by YiYiSoDa
