@@ -1,0 +1,99 @@
+<!-- Distribution of female cast percentage- after TS of female cast ratio ------------------------------------------------------------------------- -->
+
+<div id="gallery_distribution_cast">
+    <select id="image-selector_distribution_cast">
+        <option value="img_sc/1908_2012.png">Period:1908-2012</option>
+        <option value="img_sc/1908_1935.png">Period: 1908-1935</option>
+        <option value="img_sc/1935_1945.png">Period:1935_1945</option>
+        <option value="img_sc/1945_1990.png">Period:1945-1990</option>
+        <option value="img_sc/1990_2012.png">Period: 1990-2012</option>
+    </select>
+    <img id="image" src="img_sc/1908_2012.png"
+        alt="Period:1908-2012">
+</div>
+
+<!-- JavaScript code -->
+<script>
+    const imageSelector = document.getElementById("image-selector_distribution_cast");
+    const image = document.getElementById("image");
+
+    // Add a change event listener to the select element
+    imageSelector.addEventListener("change", function () {
+        // Set the src attribute of the image to the selected value
+        image.src = this.value;
+    });
+</script>
+
+<style>
+    #gallery_distribution_cast {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    #image-selector-container {
+        margin-bottom: 50px;
+    }
+
+    #gallery_distribution_cast img {
+        width: flex;
+        height: 400px;
+        object-fit: cover;
+        display: block;
+        margin: 0 auto;
+        position: relative;
+    }
+</style>
+
+
+
+<!-- Director- writer percentage ------------------------------------------------------------------------- -->
+
+
+<!-- Director- writer percentage ------------------------------------------------------------------------- -->
+
+<div id="gallery">
+    <select id="image-selector">
+        <option value="img_sc/Comparison with worldwide female employment rate.png">Comparison with worldwide female employment rate</option>
+        <option value="img_sc/Female director projection.png">Female director projection</option>
+        <option value="img_sc/Female writer projection.png">Female writer projection</option>
+    </select>
+    <img id="image" src="img_sc/Comparison with worldwide female employment rate.png" alt="Comparison with worldwide female employment rate">
+</div>
+
+<!-- JavaScript code -->
+<script>
+    const imageSelector = document.getElementById("image-selector");
+    const image = document.getElementById("image");
+
+    // Add a change event listener to the select element
+    imageSelector.addEventListener("change", function () {
+        // Set the src attribute of the image to the selected value
+        image.src = this.value;
+    });
+</script>
+
+<style>
+    #gallery {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    #image-selector-container {
+        margin-bottom: 50px;
+    }
+
+    #gallery img {
+        width: flex;
+        height: 400px;
+        object-fit: cover;
+        display: block;
+        margin: 0 auto;
+        position: relative;
+    }
+   
+</style>
+
+
+
