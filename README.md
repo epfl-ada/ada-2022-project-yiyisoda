@@ -16,7 +16,7 @@ List of research questions analyzed in this project:
 - 3. What is the gender gap across the world and how did it evolve over time?
 - 4. How will the gender gap evolve in the future and how long will it take for it to be closed?
 - 5. Are there certain topics that correlates with one gender?
-- 6. Is there a correlation with off screen inequality and on-screen inequality?
+- 7. What are the Bechdel Test Scores of the movies?
 
 # Proposed additional datasets 
 Additional dataset: 
@@ -25,7 +25,8 @@ Additional dataset:
 - 2. **name.basics.tsv.gz**, from IMDb https://www.imdb.com/interfaces/ that contains writers/directors id and their names
 - 3. **title.crew.tsv.gz**, from IMDb https://www.imdb.com/interfaces/ that contains the director and writer information for all the titles
 - 4. **male.txt and female.txt**, from https://www.cs.cmu.edu/Groups/AI/areas/nlp/corpora/names/ to identify writers/directors gender from names
-- 5. **(Potential) Movie Bechdel Test Scores** https://www.kaggle.com/datasets/alisonyao/movie-bechdel-test-scores, that contains IMDb movie id and if a movie passes the Bechdel Test. This dataset can be used as an indicator for the active presence of women in the movie industry.
+- 5. **Movie Bechdel Test Scores** https://www.kaggle.com/datasets/alisonyao/movie-bechdel-test-scores, that contains IMDb movie id and if a movie passes the Bechdel Test. This dataset can be used as an indicator for the active presence of women in the movie industry.
+- 6. **female-labor.csv** from ___, that contains the number of females works per nation and per year.
 
 # Methods
 
@@ -40,15 +41,13 @@ Q4: Build a regression model based on insights of question 1.
 
 Q5: In order to find recuring topics for a specific gender，topic modelling on gender is done to extract keywords around two genders.
 
-Q6: create a correlation matrix with gender distribution for writer and director is done with the other features describing the gender gap.
+Q6: Analyse distribution of the Bechdel Test Scores with pie and bar plots
 
 In dept description of how to analyse movie plots for Q1 & Q5:
 1. Split plot description into sentences describing female/ male character according to pronoun or name
-2. Extract verbs/ adjectives/ nouns with https://spacy.io/ or https://www.nltk.org/
-3. Stemming & Lemmatizing words: reduce words to their root (e.g., “helping” and “helper” share the root “help.”) with https://www.nltk.org/
-4. Categorizing extracted words according with https://github.com/Ejhfast/empath-client / or by training own model: https://radimrehurek.com/gensim/models/ldamulticore.html
-5. Frequency Distribution on how often a word appears: https://www.nltk.org/ or with word cloud: https://github.com/amueller/word_cloud
-
+2. Extract verbs/ adjectives/ nouns with https://spacy.io/
+3. Lemmatizing words: reduce words to their root (e.g., “helping” and “helper” share the root “help.”) with https://www.nltk.org/
+4. Frequency Distribution on how often a word appears with word cloud: https://github.com/amueller/word_cloud
 
 # Pipeline
 ![image](https://github.com/epfl-ada/ada-2022-project-yiyisoda/blob/main/pipeline.png)
@@ -64,6 +63,8 @@ In dept description of how to analyse movie plots for Q1 & Q5:
   Combine previous analysis for Q6
 - 16.12: 
   Create story with figures and text, finalize git repository
+- 23.12:
+  Finish story with interactive figures and text
 
 # Organization within the team
 
